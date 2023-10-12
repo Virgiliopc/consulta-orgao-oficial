@@ -1,0 +1,1104 @@
+<link rel="preload" as="script" href="https://campomourao.atende.net/static/portal/js/2023/10/04/js_b57904dca599eee4a1bb8750c4226281.js">
+<script type="text/javascript" src="https://campomourao.atende.net/static/portal/js/2023/10/04/js_b57904dca599eee4a1bb8750c4226281.js"></script>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1' />
+  <meta charset="iso-8859-1">
+  <meta name="description" content="Órgão Oficial Eletrônico">
+  <link rel="icon" href="imagem/sistema/wdo/imagem_wdo_favicon.png">
+  <title>Órgão Oficial Eletrônico - MUNICIPIO DE CAMPO MOURAO</title>
+<link rel="stylesheet" type="text/css" href="estrutura/css/css_portal_diario_oficial.php?style=novo"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<script>window['__oListaSistemas'] = {"WMM":{"codigo":"116","nome":"eComunica","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"116"}},"SOP":{"codigo":"87","nome":"Prontu\u00e1rio Social","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"87"}},"SSU":{"codigo":"78","nome":"Assist\u00eancia a Sa\u00fade","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"78"}},"VVS":{"codigo":"72","nome":"Vigil\u00e2ncia Sanit\u00e1ria","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"72"}},"CCG":{"codigo":"107","nome":"Cadastros Gen\u00e9ricos","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"107"}},"CNF":{"codigo":"108","nome":"Nota Fiscal Eletr\u00f4nica Contribuint","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"108"}},"ACF":{"codigo":"139","nome":"App Fiscaliza\u00e7\u00e3o de Contratos","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"139"}},"SOV":{"codigo":"89","nome":"Vigil\u00e2ncia Socioassistencial","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"89"}},"SOS":{"codigo":"86","nome":"Programas e Servi\u00e7os","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"86"}},"SRG":{"codigo":"77","nome":"Regula\u00e7\u00e3o","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"77"}},"SGS":{"codigo":"13","nome":"Gest\u00e3o da Sa\u00fade","versao":"201301","multiEstabelecimento":"1","faixaRotina":{"1":"13"}},"WIS":{"codigo":"34","nome":"ISSQN e Taxas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"34"}},"WTB":{"codigo":"40","nome":"ITBI e Taxas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"40"}},"WRD":{"codigo":"46","nome":"Receitas Diversas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"46"}},"WCM":{"codigo":"41","nome":"Contribui\u00e7\u00e3o de Melhorias","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"41"}},"WGT":{"codigo":"36","nome":"Arrecada\u00e7\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"36"}},"WDA":{"codigo":"44","nome":"D\u00edvida Ativa","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"44"}},"WSO":{"codigo":"42","nome":"Obras e Posturas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"42"}},"WCE":{"codigo":"57","nome":"Cemit\u00e9rios","versao":"201501","multiEstabelecimento":"0","faixaRotina":{"1":"57"}},"WSE":{"codigo":"31","nome":"Tarifa de \u00c1gua","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"31"}},"WLG":{"codigo":"25","nome":"Legisla\u00e7\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"25"}},"WTR":{"codigo":"50","nome":"Portal da Transpar\u00eancia","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"50"}},"WPT":{"codigo":"16","nome":"Processo Digital","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"16"}},"WOV":{"codigo":"17","nome":"Ouvidoria","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"17"}},"WAU":{"codigo":"61","nome":"Autoatendimento","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"61"}},"CGF":{"codigo":"111","nome":"Gerenciamento Fiscal","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"111"}},"WDO":{"codigo":"54","nome":"Di\u00e1rio Oficial","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"54"}},"WCV":{"codigo":"58","nome":"Conv\u00eanios M\u00e9dicos","versao":"201501","multiEstabelecimento":"0","faixaRotina":{"1":"58"}},"WNE":{"codigo":"66","nome":"Nota Fiscal Eletr\u00f4nica","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"66"}},"WEP":{"codigo":"6","nome":"Est\u00e1gio Probat\u00f3rio","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"6"}},"VAB":{"codigo":"74","nome":"Vigil\u00e2ncia Ambiental","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"74"}},"WFA":{"codigo":"14","nome":"Escrita Fiscal","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"14"}},"WNF":{"codigo":"22","nome":"NF de Servi\u00e7o Eletr\u00f4nica","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"22"}},"WSN":{"codigo":"43","nome":"Simples Nacional","versao":"201001","multiEstabelecimento":"0","faixaRotina":{"1":"43"}},"WSF":{"codigo":"53","nome":"Sincroniza\u00e7\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"53"}},"WOB":{"codigo":"59","nome":"Obras P\u00fablicas","versao":"201601","multiEstabelecimento":"0","faixaRotina":{"1":"59"}},"WDS":{"codigo":"19","nome":"Di\u00e1rio Social","versao":"201301","multiEstabelecimento":"1","faixaRotina":{"1":"19"}},"WFC":{"codigo":"38","nome":"Financeiro","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"38"}},"WPM":{"codigo":"39","nome":"Gest\u00e3o Patrimonial e Cont\u00e1bil","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"39"}},"WPR":{"codigo":"45","nome":"Presta\u00e7\u00e3o de Contas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"45"}},"WCI":{"codigo":"9","nome":"Controle Interno","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"9"}},"WAX":{"codigo":"28","nome":"Almoxarifado","versao":"201504","multiEstabelecimento":"0","faixaRotina":{"1":"28"}},"WCO":{"codigo":"10","nome":"Compras e Contratos","versao":"201504","multiEstabelecimento":"0","faixaRotina":{"1":"10","2":"1000"}},"WCR":{"codigo":"69","nome":"Capta\u00e7\u00e3o de Recursos","versao":"201801","multiEstabelecimento":"0","faixaRotina":{"1":"69"}},"WIP":{"codigo":"35","nome":"IPTU e Taxas","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"35"}},"ETE":{"codigo":"96","nome":"Transporte Escolar","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"96"}},"WPA":{"codigo":"18","nome":"Patrim\u00f4nio","versao":"201504","multiEstabelecimento":"0","faixaRotina":{"1":"18"}},"WCP":{"codigo":"11","nome":"Configura\u00e7\u00f5es","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"11"}},"WPC":{"codigo":"29","nome":"Procuradoria","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"29"}},"WDC":{"codigo":"52","nome":"Cadastros Globais (DC)","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"52"}},"APA":{"codigo":"143","nome":"App Patrim\u00f4nio","versao":"202302","multiEstabelecimento":"0","faixaRotina":{"1":"143"}},"FSN":{"codigo":"91","nome":"Simples Nacional","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"91"}},"WUN":{"codigo":"2","nome":"Cadastros \u00danicos","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"2"}},"WTV":{"codigo":"140","nome":"Transfer\u00eancia Volunt\u00e1ria","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"140"}},"WFP":{"codigo":"3","nome":"Folha de Pagamento","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"3","2":"1000"}},"SOB":{"codigo":"84","nome":"Benef\u00edcios","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"84"}},"SDG":{"codigo":"81","nome":"Diagn\u00f3stico","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"81"}},"VST":{"codigo":"75","nome":"Vigil\u00e2ncia em Sa\u00fade do Trabalhador","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"75"}},"SAF":{"codigo":"80","nome":"Assist\u00eancia Farmac\u00eautica","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"80"}},"WGP":{"codigo":"51","nome":"Gest\u00e3o de Projetos","versao":"201001","multiEstabelecimento":"0","faixaRotina":{"1":"51"}},"WPL":{"codigo":"33","nome":"Planejamento e Or\u00e7amento","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"33"}},"ECE":{"codigo":"94","nome":"Censo Escolar","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"94"}},"WEO":{"codigo":"37","nome":"Execu\u00e7\u00e3o Or\u00e7ament\u00e1ria","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"37"}},"WAC":{"codigo":"104","nome":"Tarifa da \u00c1gua - Coletor","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"104"}},"WGF":{"codigo":"63","nome":"Gerenciamento Fiscal","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"63"}},"GDC":{"codigo":"114","nome":"Gest\u00e3o de Data Center","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"114"}},"WTD":{"codigo":"103","nome":"Treinamento e Desenvolvimento","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"103"}},"WSM":{"codigo":"56","nome":"Comunica\u00e7\u00e3o","versao":"201501","multiEstabelecimento":"0","faixaRotina":{"1":"56"}},"SAP":{"codigo":"106","nome":"Aten\u00e7\u00e3o Psicossocial","versao":"202001","multiEstabelecimento":"1","faixaRotina":{"1":"106"}},"WFI":{"codigo":"15","nome":"Fiscaliza\u00e7\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"15"}},"ECV":{"codigo":"109","nome":"Central de Vagas","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"109"}},"EGP":{"codigo":"100","nome":"Gest\u00e3o Pedag\u00f3gica","versao":"201901","multiEstabelecimento":"1","faixaRotina":{"1":"100"}},"EEV":{"codigo":"93","nome":"Gest\u00e3o de Eventos","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"93"}},"VZN":{"codigo":"120","nome":"Controle de Zoonoses","versao":"202109","multiEstabelecimento":"1","faixaRotina":{"1":"120"}},"WBI":{"codigo":"4","nome":"Gerenciamento de Indicadores","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"4"}},"SOG":{"codigo":"83","nome":"Configura\u00e7\u00f5es","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"83"}},"WMS":{"codigo":"5","nome":"Medicina e Seguran\u00e7a do Trabalho","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"5"}},"WIM":{"codigo":"105","nome":"Videoatendimento","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"105"}},"SOE":{"codigo":"85","nome":"Encaminhamentos","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"85"}},"WFR":{"codigo":"68","nome":"IPM Studio","versao":"201801","multiEstabelecimento":"0","faixaRotina":{"1":"68"}},"EBI":{"codigo":"95","nome":"Biblioteca","versao":"201901","multiEstabelecimento":"1","faixaRotina":{"1":"95"}},"WNP":{"codigo":"60","nome":"Nota Fiscal Premiada","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"60"}},"CEF":{"codigo":"110","nome":"Escrita Fiscal Contribuinte","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"110"}},"SFT":{"codigo":"82","nome":"Faturamento","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"82"}},"SUE":{"codigo":"79","nome":"Urg\u00eancia e Emerg\u00eancia","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"79"}},"SAT":{"codigo":"76","nome":"Aten\u00e7\u00e3o Prim\u00e1ria","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"76"}},"VEP":{"codigo":"73","nome":"Vigil\u00e2ncia Epidemiol\u00f3gica","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"73"}},"GTT":{"codigo":"112","nome":"Gerenciamento Data Center","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"112"}},"GBP":{"codigo":"113","nome":"Gerenciamento Backup","versao":"202001","multiEstabelecimento":"0","faixaRotina":{"1":"113"}},"WRS":{"codigo":"8","nome":"Recrutamento e Sele\u00e7\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"8"}},"WRP":{"codigo":"20","nome":"Ponto Eletr\u00f4nico","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"20"}},"WCN":{"codigo":"115","nome":"Gest\u00e3o e Controle de Custos","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"115"}},"WGD":{"codigo":"62","nome":"Gerenciamento de Documentos","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"62"}},"WEF":{"codigo":"64","nome":"Escrita Fiscal","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"64"}},"WFG":{"codigo":"65","nome":"Fiscaliza\u00e7\u00e3o","versao":"201701","multiEstabelecimento":"0","faixaRotina":{"1":"65"}},"EGC":{"codigo":"98","nome":"Gest\u00e3o Calend\u00e1rio Escolar","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"98"}},"WGR":{"codigo":"12","nome":"Gerador de Relat\u00f3rios","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"12"}},"EAN":{"codigo":"101","nome":"Alimenta\u00e7\u00e3o Escolar e Nutri\u00e7\u00e3o","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"101"}},"WPO":{"codigo":"49","nome":"Portal do Cidad\u00e3o","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"49"}},"WCT":{"codigo":"55","nome":"Custos","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"55"}},"WLE":{"codigo":"102","nome":"Legislativo","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"102"}},"WGA":{"codigo":"132","nome":"Pra\u00e7a de Atendimento","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"132"}},"EST":{"codigo":"1","nome":"Gerenciamento do Sistema","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"1"}},"WAD":{"codigo":"7","nome":"Avalia\u00e7\u00e3o de Desempenho","versao":"201301","multiEstabelecimento":"0","faixaRotina":{"1":"7"}},"ECT":{"codigo":"97","nome":"Forma\u00e7\u00e3o Continuada","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"97"}},"WDE":{"codigo":"70","nome":"Domic\u00edlio Eletr\u00f4nico","versao":"201801","multiEstabelecimento":"0","faixaRotina":{"1":"70"}},"DHA":{"codigo":"118","nome":"Habitacional","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"118"}},"ESE":{"codigo":"99","nome":"Secretaria Escolar","versao":"201901","multiEstabelecimento":"1","faixaRotina":{"1":"99"}},"EGA":{"codigo":"92","nome":"Gest\u00e3o Administrativa Escolar","versao":"201901","multiEstabelecimento":"0","faixaRotina":{"1":"92"}},"DAG":{"codigo":"121","nome":"Agricultura","versao":"202102","multiEstabelecimento":"0","faixaRotina":{"1":"121"}},"WFM":{"codigo":"27","nome":"Frota","versao":"201504","multiEstabelecimento":"0","faixaRotina":{"1":"27"}},"WPV":{"codigo":"21","nome":"Previdenci\u00e1rio","versao":"201501","multiEstabelecimento":"0","faixaRotina":{"1":"21"}},"IGR":{"codigo":"136","nome":"Intelig\u00eancia Artificial IPM","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"136"}},"AAE":{"codigo":"137","nome":"App Atende.net Exclusivo Cliente","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"137"}},"AAN":{"codigo":"123","nome":"App Atende.net Padr\u00e3o","versao":"202201","multiEstabelecimento":"0","faixaRotina":{"1":"123"}},"VGS":{"codigo":"90","nome":"Gest\u00e3o da Vigil\u00e2ncia","versao":"201801","multiEstabelecimento":"0","faixaRotina":{"1":"90"}},"WPG":{"codigo":"141","nome":"Pagamento com Cart\u00e3o","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"141"}},"WRF":{"codigo":"133","nome":"Robot de Fiscaliza\u00e7\u00e3o","versao":"202201","multiEstabelecimento":"0","faixaRotina":{"1":"133"}},"WSP":{"codigo":"67","nome":"Servi\u00e7os P\u00fablicos","versao":"201601","multiEstabelecimento":"0","faixaRotina":{"1":"67"}},"NGT":{"codigo":"127","nome":"Gerenciamento","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"127"}},"WCC":{"codigo":"131","nome":"Alvar\u00e1 F\u00e1cil","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"131"}},"WEL":{"codigo":"145","nome":"e-Licita","versao":"202302","multiEstabelecimento":"0","faixaRotina":{"1":"145"}},"WNL":{"codigo":"119","nome":"Power BI","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"119"}},"WVA":{"codigo":"128","nome":"Valor Adicionado Fiscal","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"128"}},"WPF":{"codigo":"126","nome":"Presta\u00e7\u00e3o de Contas","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"126"}},"WIN":{"codigo":"130","nome":"Contratos","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"130"}},"WRM":{"codigo":"117","nome":"Starter","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"117"}},"DCM":{"codigo":"135","nome":"Conselhos Municipais","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"135"}},"ATO":{"codigo":"134","nome":"App Totem","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"134"}},"EPR":{"codigo":"122","nome":"Gest\u00e3o do Professor","versao":"202102","multiEstabelecimento":"1","faixaRotina":{"1":"122"}},"EAP":{"codigo":"129","nome":"App Professor","versao":"202202","multiEstabelecimento":"0","faixaRotina":{"1":"129"}},"WDN":{"codigo":"138","nome":"Ambiente de Dados Nacional","versao":"202301","multiEstabelecimento":"0","faixaRotina":{"1":"138"}},"AVS":{"codigo":"125","nome":"App Vigil\u00e2ncia Sanit\u00e1ria","versao":"202101","multiEstabelecimento":"0","faixaRotina":{"1":"125"}},"WMA":{"codigo":"71","nome":"Gest\u00e3o Ambiental","versao":"201801","multiEstabelecimento":"0","faixaRotina":{"1":"71"}},"WOU":{"codigo":"142","nome":"Ouvidoria V2","versao":"202302","multiEstabelecimento":"0","faixaRotina":{"1":"142"}},"SOM":{"codigo":"88","nome":"Equipamentos e Materiais","versao":"201801","multiEstabelecimento":"1","faixaRotina":{"1":"88"}},"WIF":{"codigo":"144","nome":"ISS Institui\u00e7\u00f5es Financeiras","versao":"202302","multiEstabelecimento":"0","faixaRotina":{"1":"144"}},"WCF":{"codigo":"124","nome":"Controle e Fiscaliza\u00e7\u00e3o de Contratos","versao":"202201","multiEstabelecimento":"0","faixaRotina":{"1":"124"}}};window['__sEnderecoBirt'] = "http:\/\/192.168.30.55:8080\/WebReport\/";window['__sCidade'] = "padrao";window['__sHostInterno'] = "http:\/\/127.0.0.1\/atende.php";window['__sEnderecoEstrutura'] = "estrutura";window['__sEnderecoImagens'] = "imagem";window['__sEnderecoWiki'] = "https:\/\/wiki.ipm.com.br";window['__bDesenvolvimento'] = false;window['__bQualidade'] = false;window['__bProducao'] = true;window['__oScripts'] = {"js_player_jwplayer.js":{"caminho":"player\/js_player_jwplayer.js","hash":"cf713fd5"},"js_json.js":{"caminho":"base\/js_json.js","hash":"934a4105"},"js_uisortable.js":{"caminho":"base\/js_uisortable.js","hash":"934a4105"},"js_svgcomponentes.js":{"caminho":"svg\/js_svgcomponentes.js","hash":"934a4105"},"js_funcao.js":{"caminho":"funcoes\/js_funcao.js","hash":"8e107997"},"js_pstrength.js":{"caminho":"js_pstrength.js","hash":"84b37da6"},"js_message.js":{"caminho":"sistema\/js_message.js","hash":"8c53aade"},"js_highcharts.js":{"caminho":"highcharts\/js_highcharts.js","hash":"bea6542e"},"js_uicore.js":{"caminho":"base\/js_uicore.js","hash":"934a4105"},"js_jjanelas.js":{"caminho":"componentes\/js_jjanelas.js","hash":"8e107997"},"js_html5.js":{"caminho":"base\/js_html5.js","hash":"934a4105"},"js_tooltip.js":{"caminho":"sistema\/js_tooltip.js","hash":"934a4105"},"js_jquery_plugin.js":{"caminho":"js_jquery_plugin.js","hash":"a3b66d47"},"js_wfdesigner.js":{"caminho":"workflow\/js_wfdesigner.js","hash":"934a4105"},"js_campo.js":{"caminho":"componentes\/js_campo.js","hash":"b38945e9"},"js_cycle.js":{"caminho":"js_cycle.js","hash":"cfa7a512"},"js_relatorio.js":{"caminho":"sistema\/js_relatorio.js","hash":"3b464a2e"},"js_wfdesignerdinamico.js":{"caminho":"workflow\/js_wfdesignerdinamico.js","hash":"934a4105"},"js_fadeimage.js":{"caminho":"js_fadeimage.js","hash":"5d2353fc"},"js_uidroppable.js":{"caminho":"base\/js_uidroppable.js","hash":"934a4105"},"js_uidraggable.js":{"caminho":"base\/js_uidraggable.js","hash":"934a4105"},"js_wfdesignercomponentes.js":{"caminho":"workflow\/js_wfdesignercomponentes.js","hash":"934a4105"},"js_portal_transparencia.js":{"caminho":"js_portal_transparencia.js","hash":"2cae58ce"},"js_uiresizable.js":{"caminho":"base\/js_uiresizable.js","hash":"934a4105"},"js_jquery.js":{"caminho":"js_jquery.js","hash":"cfa7a512"},"js_uislider.js":{"caminho":"js_uislider.js","hash":"cfa7a512"},"js_jdmenu.js":{"caminho":"js_jdmenu.js","hash":"98da8bfa"},"js_html2canvas.js":{"caminho":"js_html2canvas.js","hash":"cfa7a512"},"js_md5.js":{"caminho":"base\/js_md5.js","hash":"934a4105"},"js_swfobject.js":{"caminho":"js_swfobject.js","hash":"cf713fd5"},"js_consulta.js":{"caminho":"componentes\/consulta\/js_consulta.js","hash":"8e107997"},"js_jsuggest.js":{"caminho":"componentes\/js_jsuggest.js","hash":"8c53aade"},"js_mensagem.js":{"caminho":"sistema\/js_mensagem.js","hash":"934a4105"},"js_diario_oficial.js":{"caminho":"js_diario_oficial.js","hash":"78e6c6fd"},"js_jquery_tree.js":{"caminho":"componentes\/js_jquery_tree.js","hash":"cac85316"},"js_svg.js":{"caminho":"svg\/js_svg.js","hash":"934a4105"},"js_jtabs.js":{"caminho":"js_jtabs.js","hash":"5d2353fc"},"js_svganim.js":{"caminho":"svg\/js_svganim.js","hash":"934a4105"},"js_portal_cidadao.js":{"caminho":"js_portal_cidadao.js","hash":"a3b66d47"},"js_tiny_mce.js":{"caminho":"js_tiny_mce.js","hash":"a8b0d88a"},"js_jquery.inputmask.js":{"caminho":"js_jquery.inputmask.js","hash":"f38c8f54"},"js_jquery.nicescroll.min.js":{"caminho":"js_jquery.nicescroll.min.js","hash":"f38c8f54"},"js_inputmask.js":{"caminho":"js_inputmask.js","hash":"f38c8f54"},"js_inputmask.date.extensions.js":{"caminho":"js_inputmask.date.extensions.js","hash":"f38c8f54"},"js_jquery-1.9.1.min.js":{"caminho":"js_jquery-1.9.1.min.js","hash":"f38c8f54"},"js_websocket.js":{"caminho":"websocket\/js_websocket.js","hash":"407b91f5"},"js_crypto.js":{"caminho":"base\/js_crypto.js","hash":"934a4105"},"js_websocketcomponentes.js":{"caminho":"websocket\/js_websocketcomponentes.js","hash":"2cae58ce"},"js_portal_autoatendimento.js":{"caminho":"js_portal_autoatendimento.js","hash":"8c53aade"},"js_promise.js":{"caminho":"js_promise.js","hash":"306a0466"},"js_hashchange.js":{"caminho":"base\/js_hashchange.js","hash":"934a4105"},"js_uiaccordion.js":{"caminho":"base\/js_uiaccordion.js","hash":"934a4105"},"js_pdf.js":{"caminho":"js_pdf.js","hash":"306a0466"},"js_svg2pdf.js":{"caminho":"js_svg2pdf.js","hash":"306a0466"},"js_canvg.js":{"caminho":"js_canvg.js","hash":"306a0466"},"js_hight_exporting.js":{"caminho":"js_hight_exporting.js","hash":"291645d0"},"js_hight_offline.js":{"caminho":"js_hight_offline.js","hash":"291645d0"},"js_cropper.js":{"caminho":"js_cropper.js","hash":"fba25857"},"js_colorpicker.js":{"caminho":"js_colorpicker.js","hash":"d6dc28b7"},"js_high_more.js":{"caminho":"js_high_more.js","hash":"291645d0"},"js_portal_base.js":{"caminho":"js_portal_base.js","hash":"8e107997"},"js_calendario.js":{"caminho":"js_calendario.js","hash":"03f2f1d1"},"js_portal_cidadao_l2.js":{"caminho":"js_portal_cidadao_l2.js","hash":"b38945e9"},"js_portal_hotsite.js":{"caminho":"js_portal_hotsite.js","hash":"8c53aade"},"js_pdfobject.js":{"caminho":"js_pdfobject.js","hash":"6aaf06e4"},"js_indicador.js":{"caminho":"componentes\/js_indicador.js","hash":"bea6542e"},"js_funcao_visao_indicador.js":{"caminho":"js_funcao_visao_indicador.js","hash":"a3b66d47"},"js_visao_indicador.js":{"caminho":"js_visao_indicador.js","hash":"387ac73d"},"js_timeline_sintetica.js":{"caminho":"js_timeline_sintetica.js","hash":"6d4574fb"},"js_jquery-3.3.1.js":{"caminho":"js_jquery-3.3.1.js","hash":"d4a41451"},"js_timeline.js":{"caminho":"js_timeline.js","hash":"364896eb"},"js_gridstack.js":{"caminho":"js_gridstack.js","hash":"d4a41451"},"js_mapa.js":{"caminho":"mapas\/js_mapa.js","hash":"b38945e9"},"js_campo_lista.js":{"caminho":"campos\/js_campo_lista.js","hash":"8c53aade"},"js_linha_tempo.js":{"caminho":"componentes\/js_linha_tempo.js","hash":"407b91f5"},"js_jquery_migrate.js":{"caminho":"js_jquery_migrate.js","hash":"d4a41451"},"js_lodash.min.js":{"caminho":"js_lodash.min.js","hash":"d4a41451"},"js_drive.js":{"caminho":"componentes\/js_drive.js","hash":"407b91f5"},"js_mapas_overlay_view_google_maps.js":{"caminho":"mapas\/js_mapas_overlay_view_google_maps.js","hash":"78e6c6fd"},"js_componente_mapa_ipm.js":{"caminho":"mapas\/js_componente_mapa_ipm.js","hash":"8e107997"},"js_mapas_objetos_ipm.js":{"caminho":"mapas\/js_mapas_objetos_ipm.js","hash":"78e6c6fd"},"js_mapas_overlay_view.js":{"caminho":"mapas\/js_mapas_overlay_view.js","hash":"78e6c6fd"},"js_componente_mapa_google.js":{"caminho":"mapas\/js_componente_mapa_google.js","hash":"b38945e9"},"js_mapas_overlay_view_ipm_maps.js":{"caminho":"mapas\/js_mapas_overlay_view_ipm_maps.js","hash":"78e6c6fd"},"js_mapas_objetos_google.js":{"caminho":"mapas\/js_mapas_objetos_google.js","hash":"6175af1d"},"js_mapas_objetos.js":{"caminho":"mapas\/js_mapas_objetos.js","hash":"407b91f5"},"js_google_polyline.js":{"caminho":"mapas\/js_google_polyline.js","hash":"407b91f5"},"js_markerclusterer.min.js":{"caminho":"mapas\/js_markerclusterer.min.js","hash":"407b91f5"},"js_mapa_marcador.js":{"caminho":"mapas\/js_mapa_marcador.js","hash":"407b91f5"},"js_overlapping_marker_spiderfier.min.js":{"caminho":"mapas\/js_overlapping_marker_spiderfier.min.js","hash":"b38945e9"},"js_tiny_mce.min.js":{"caminho":"js_tiny_mce.min.js","hash":"407b91f5"},"js_captcha.js":{"caminho":"componentes\/js_captcha.js","hash":"407b91f5"},"js_editor.js":{"caminho":"editores\/js_editor.js","hash":"b38945e9"},"js_componentes.js":{"caminho":"componentes\/js_componentes.js","hash":"8c53aade"},"js_pspdfkit.min.js":{"caminho":"js_pspdfkit.min.js","hash":"bfccf324"},"js_leitorpdf.js":{"caminho":"editores\/js_leitorpdf.js","hash":"8e107997"},"js_campo_file.js":{"caminho":"campos\/js_campo_file.js","hash":"b38945e9"},"js_tela.js":{"caminho":"componentes\/js_tela.js","hash":"8e107997"},"js_grid.js":{"caminho":"componentes\/js_grid.js","hash":"0e1d9771"},"js_botoes.js":{"caminho":"componentes\/js_botoes.js","hash":"407b91f5"},"js_tree.js":{"caminho":"componentes\/js_tree.js","hash":"8e107997"},"js_imagem.js":{"caminho":"componentes\/js_imagem.js","hash":"407b91f5"},"js_speech.js":{"caminho":"funcoes\/js_speech.js","hash":"407b91f5"},"js_workflow.js":{"caminho":"workflow\/js_workflow.js","hash":"2cae58ce"},"js_campo_numerico.js":{"caminho":"campos\/js_campo_numerico.js","hash":"b38945e9"},"js_merge.js":{"caminho":"editores\/js_merge.js","hash":"2cae58ce"},"js_ace_diff.min.js":{"caminho":"js_ace_diff.min.js","hash":"89161ac2"},"js_audio.js":{"caminho":"sistema\/js_audio.js","hash":"934a4105"},"js_cores.js":{"caminho":"sistema\/js_cores.js","hash":"6cee436a"},"js_jquery-3.6.0.min.js":{"caminho":"base\/js_jquery-3.6.0.min.js","hash":"934a4105"},"js_navegacao.js":{"caminho":"base\/js_navegacao.js","hash":"8e107997"},"js_workflow_mxgraph_componentes.js":{"caminho":"workflow\/js_workflow_mxgraph_componentes.js","hash":"934a4105"},"js_workflow_mxgraph_codecs.js":{"caminho":"js_workflow_mxgraph_codecs.js","hash":"0d48ce05"},"js_workflow_mxgraph.js":{"caminho":"workflow\/js_workflow_mxgraph.js","hash":"c3487275"},"js_workflow_telas.js":{"caminho":"workflow\/js_workflow_telas.js","hash":"17f8d0be"},"js_turn.min.js":{"caminho":"js_turn.min.js","hash":"b879e28d"},"js_mensagem_sistema.js":{"caminho":"js_mensagem_sistema.js","hash":"920ed407"},"js_mxclient.min.js":{"caminho":"js_mxclient.min.js","hash":"1b80e7ee"},"js_consulta_modular.js":{"caminho":"componentes\/consulta\/js_consulta_modular.js","hash":"407b91f5"},"js_fuse.js":{"caminho":"js_fuse.js","hash":"4fff35b7"},"js_consulta_preferencia.js":{"caminho":"componentes\/consulta\/js_consulta_preferencia.js","hash":"8c53aade"},"js_jquery_3.4.1.min.js":{"caminho":"js_jquery_3.4.1.min.js","hash":"587781f4"},"js_barra_tarefas.js":{"caminho":"componentes\/js_barra_tarefas.js","hash":"934a4105"},"js_high_export_data.js":{"caminho":"js_high_export_data.js","hash":"9313f7f8"},"js_google_api.js":{"caminho":"funcoes\/js_google_api.js","hash":"407b91f5"},"js_videoconferencia.js":{"caminho":"js_videoconferencia.js","hash":"a44ed8d6"},"js_jitsi_external_api.js":{"caminho":"js_jitsi_external_api.js","hash":"fbcab015"},"js_accordion.js":{"caminho":"componentes\/js_accordion.js","hash":"c50889aa"},"js_expressoes.js":{"caminho":"componentes\/js_expressoes.js","hash":"2cae58ce"},"js_card.js":{"caminho":"componentes\/js_card.js","hash":"407b91f5"},"js_tui_calendar.min.js":{"caminho":"componentes\/js_tui_calendar.min.js","hash":"407b91f5"},"js_campo_lista_dinamica.js":{"caminho":"campos\/js_campo_lista_dinamica.js","hash":"721548ae"},"js_websocket_mobile.js":{"caminho":"websocket\/js_websocket_mobile.js","hash":"407b91f5"},"js_campo_calendario.js":{"caminho":"campos\/js_campo_calendario.js","hash":"8e107997"},"js_campo_lista_multipla.js":{"caminho":"campos\/js_campo_lista_multipla.js","hash":"b38945e9"},"js_funcao_data_hora.js":{"caminho":"funcoes\/js_funcao_data_hora.js","hash":"407b91f5"},"js_campo_externo.js":{"caminho":"campos\/js_campo_externo.js","hash":"b38945e9"},"js_ipm_forms.js":{"caminho":"componentes\/js_ipm_forms.js","hash":"bea6542e"},"js_formulario_restrito.js":{"caminho":"sistema\/js_formulario_restrito.js","hash":"934a4105"},"js_funcao_ajax.js":{"caminho":"funcoes\/js_funcao_ajax.js","hash":"8c53aade"},"js_ipm_forms_componentes.js":{"caminho":"componentes\/js_ipm_forms_componentes.js","hash":"934a4105"},"js_editor_blocos.js":{"caminho":"editores\/js_editor_blocos.js","hash":"bea6542e"},"js_prettify.min.js":{"caminho":"js_prettify.min.js","hash":"c7ba190a"},"js_workflow_telas_workflow.js":{"caminho":"workflow\/js_workflow_telas_workflow.js","hash":"6aaf06e4"},"js_workflow_mxgraph_extensions.js":{"caminho":"workflow\/js_workflow_mxgraph_extensions.js","hash":"2cae58ce"},"js_workflow_mxgraph_diagrama_workflow.js":{"caminho":"workflow\/js_workflow_mxgraph_diagrama_workflow.js","hash":"934a4105"},"js_workflow_mxgraph_diagrama_modelagem.js":{"caminho":"workflow\/js_workflow_mxgraph_diagrama_modelagem.js","hash":"934a4105"},"js_workflow_mxgraph_componentes_modelagem.js":{"caminho":"workflow\/js_workflow_mxgraph_componentes_modelagem.js","hash":"934a4105"},"js_workflow_telas_modelagem.js":{"caminho":"workflow\/js_workflow_telas_modelagem.js","hash":"934a4105"},"js_workflow_mxgraph_componentes_workflow.js":{"caminho":"workflow\/js_workflow_mxgraph_componentes_workflow.js","hash":"934a4105"},"js_menu_sistema.js":{"caminho":"sistema\/js_menu_sistema.js","hash":"8e107997"},"js_tela_consulta.js":{"caminho":"componentes\/js_tela_consulta.js","hash":"0e1d9771"},"js_workflow_telas_workflow_campos.js":{"caminho":"workflow\/js_workflow_telas_workflow_campos.js","hash":"2cae58ce"},"js_portal_url_permanente.js":{"caminho":"js_portal_url_permanente.js","hash":"b38945e9"},"js_login.js":{"caminho":"sistema\/js_login.js","hash":"934a4105"},"js_funcao_excecoes.js":{"caminho":"funcoes\/js_funcao_excecoes.js","hash":"582fbc29"},"js_consulta_acoes.js":{"caminho":"componentes\/consulta\/js_consulta_acoes.js","hash":"c3487275"},"js_editor_fonte.js":{"caminho":"editores\/js_editor_fonte.js","hash":"b38945e9"},"js_diario_oficial_url_permanente.js":{"caminho":"js_diario_oficial_url_permanente.js","hash":"fc2596ac"},"js_icones.js":{"caminho":"sistema\/js_icones.js","hash":"c50889aa"},"js_consulta_dados.js":{"caminho":"componentes\/consulta\/js_consulta_dados.js","hash":"8e107997"},"js_migrate.js":{"caminho":"sistema\/js_migrate.js","hash":"934a4105"},"js_mensagem_sistema_v2.js":{"caminho":"js_mensagem_sistema_v2.js","hash":"fe0f2818"},"js_funcao_sistema.js":{"caminho":"funcoes\/js_funcao_sistema.js","hash":"8e107997"},"js_workflow_linear_componentes_workflow.js":{"caminho":"workflow\/js_workflow_linear_componentes_workflow.js","hash":"934a4105"},"js_workflow_linear.js":{"caminho":"workflow\/js_workflow_linear.js","hash":"934a4105"},"js_context.js":{"caminho":"componentes\/js_context.js","hash":"407b91f5"},"js_legenda.js":{"caminho":"componentes\/js_legenda.js","hash":"407b91f5"},"js_tour.js":{"caminho":"js_tour.js","hash":"a911d9f3"},"js_shepherd.min.js":{"caminho":"js_shepherd.min.js","hash":"eb682216"},"js_campo_lista_tags.js":{"caminho":"campos\/js_campo_lista_tags.js","hash":"b38945e9"},"js_linha_tempo_resumida.js":{"caminho":"componentes\/js_linha_tempo_resumida.js","hash":"b38945e9"},"js_cropper.min.js":{"caminho":"editores\/js_cropper.min.js","hash":"407b91f5"},"js_componente_data_card.js":{"caminho":"componentes\/consulta\/js_componente_data_card.js","hash":"8e107997"},"js_campo_lista_tree.js":{"caminho":"campos\/js_campo_lista_tree.js","hash":"cac85316"},"js_campo_form.js":{"caminho":"campos\/js_campo_form.js","hash":"8c53aade"},"js_componente_exibicao_consulta_grid_base.js":{"caminho":"componentes\/consulta\/js_componente_exibicao_consulta_grid_base.js","hash":"8e107997"},"js_funcao_elementos_sistema.js":{"caminho":"funcoes\/js_funcao_elementos_sistema.js","hash":"407b91f5"},"js_favoritos.js":{"caminho":"funcoes\/js_favoritos.js","hash":"2cae58ce"},"js_funcao_calculo.js":{"caminho":"funcoes\/js_funcao_calculo.js","hash":"582fbc29"},"js_funcao_campos.js":{"caminho":"funcoes\/js_funcao_campos.js","hash":"8e107997"},"js_funcao_validacao.js":{"caminho":"funcoes\/js_funcao_validacao.js","hash":"bea6542e"},"js_funcao_preferencia.js":{"caminho":"funcoes\/js_funcao_preferencia.js","hash":"407b91f5"},"js_funcao_tela.js":{"caminho":"funcoes\/js_funcao_tela.js","hash":"8c53aade"},"js_decimal.min.js":{"caminho":"funcoes\/js_decimal.min.js","hash":"407b91f5"},"js_funcao_const.js":{"caminho":"funcoes\/js_funcao_const.js","hash":"407b91f5"},"js_funcao_vetores.js":{"caminho":"funcoes\/js_funcao_vetores.js","hash":"8c53aade"},"js_funcao_sistema_sessao_usuario.js":{"caminho":"funcoes\/js_funcao_sistema_sessao_usuario.js","hash":"407b91f5"},"js_funcao_janela.js":{"caminho":"funcoes\/js_funcao_janela.js","hash":"8e107997"},"js_funcao_gadget.js":{"caminho":"funcoes\/js_funcao_gadget.js","hash":"721548ae"},"js_funcao_link.js":{"caminho":"funcoes\/js_funcao_link.js","hash":"c3487275"},"js_funcao_sistema_handler.js":{"caminho":"funcoes\/js_funcao_sistema_handler.js","hash":"407b91f5"},"js_funcao_comparacao.js":{"caminho":"funcoes\/js_funcao_comparacao.js","hash":"407b91f5"},"js_funcao_barker.js":{"caminho":"funcoes\/js_funcao_barker.js","hash":"407b91f5"},"js_funcao_string.js":{"caminho":"funcoes\/js_funcao_string.js","hash":"407b91f5"},"js_funcao_animacoes_css.js":{"caminho":"funcoes\/js_funcao_animacoes_css.js","hash":"407b91f5"},"js_funcao_requisicao_tempo.js":{"caminho":"funcoes\/js_funcao_requisicao_tempo.js","hash":"8c53aade"},"js_funcao_import_file.js":{"caminho":"funcoes\/js_funcao_import_file.js","hash":"bea6542e"},"js_eventos.js":{"caminho":"funcoes\/js_eventos.js","hash":"8c53aade"},"js_campo_hora.js":{"caminho":"campos\/js_campo_hora.js","hash":"8e107997"},"js_campo_cnpj.js":{"caminho":"campos\/js_campo_cnpj.js","hash":"407b91f5"},"js_campo_cpf_cnpj_int.js":{"caminho":"campos\/js_campo_cpf_cnpj_int.js","hash":"407b91f5"},"js_campo_memo.js":{"caminho":"campos\/js_campo_memo.js","hash":"b38945e9"},"js_campo_texto_preservado.js":{"caminho":"campos\/js_campo_texto_preservado.js","hash":"407b91f5"},"js_campo_booleano.js":{"caminho":"campos\/js_campo_booleano.js","hash":"b38945e9"},"js_campo_senha.js":{"caminho":"campos\/js_campo_senha.js","hash":"407b91f5"},"js_campo_contido.js":{"caminho":"campos\/js_campo_contido.js","hash":"407b91f5"},"js_campo_cartao_sus.js":{"caminho":"campos\/js_campo_cartao_sus.js","hash":"407b91f5"},"js_campo_html.js":{"caminho":"campos\/js_campo_html.js","hash":"407b91f5"},"js_campo_cep.js":{"caminho":"campos\/js_campo_cep.js","hash":"407b91f5"},"js_campo_cpf.js":{"caminho":"campos\/js_campo_cpf.js","hash":"407b91f5"},"js_campo_horimetro.js":{"caminho":"campos\/js_campo_horimetro.js","hash":"407b91f5"},"js_campo_escala_linear.js":{"caminho":"campos\/js_campo_escala_linear.js","hash":"b38945e9"},"js_campo_interval.js":{"caminho":"campos\/js_campo_interval.js","hash":"8e107997"},"js_campo_consulta.js":{"caminho":"campos\/js_campo_consulta.js","hash":"8c53aade"},"js_campo_lista_item.js":{"caminho":"campos\/js_campo_lista_item.js","hash":"8c53aade"},"js_campo_certidao.js":{"caminho":"campos\/js_campo_certidao.js","hash":"407b91f5"},"js_campo_hidden.js":{"caminho":"campos\/js_campo_hidden.js","hash":"407b91f5"},"js_campo_mascara_padrao.js":{"caminho":"campos\/js_campo_mascara_padrao.js","hash":"bea6542e"},"js_campo_coordenada.js":{"caminho":"campos\/js_campo_coordenada.js","hash":"407b91f5"},"js_campo_mixed.js":{"caminho":"campos\/js_campo_mixed.js","hash":"407b91f5"},"js_campo_seletor_fonte.js":{"caminho":"campos\/js_campo_seletor_fonte.js","hash":"b38945e9"},"js_campo_lista_pesquisar.js":{"caminho":"campos\/js_campo_lista_pesquisar.js","hash":"407b91f5"},"js_campo_data.js":{"caminho":"campos\/js_campo_data.js","hash":"8e107997"},"js_campo_color_picker.js":{"caminho":"campos\/js_campo_color_picker.js","hash":"bea6542e"},"js_campo_ano.js":{"caminho":"campos\/js_campo_ano.js","hash":"407b91f5"},"js_campo_conta_contabil.js":{"caminho":"campos\/js_campo_conta_contabil.js","hash":"407b91f5"},"js_campo_atividade_cnae.js":{"caminho":"campos\/js_campo_atividade_cnae.js","hash":"407b91f5"},"js_campo_atividade_padrao.js":{"caminho":"campos\/js_campo_atividade_padrao.js","hash":"407b91f5"},"js_campo_data_grp.js":{"caminho":"campos\/js_campo_data_grp.js","hash":"407b91f5"},"js_campo_data_hora.js":{"caminho":"campos\/js_campo_data_hora.js","hash":"8e107997"},"js_campo_cpf_cnpj.js":{"caminho":"campos\/js_campo_cpf_cnpj.js","hash":"407b91f5"},"js_campo_escala_selecao.js":{"caminho":"campos\/js_campo_escala_selecao.js","hash":"bea6542e"},"js_campo_pis_pasep.js":{"caminho":"campos\/js_campo_pis_pasep.js","hash":"407b91f5"},"js_campo_email.js":{"caminho":"campos\/js_campo_email.js","hash":"407b91f5"},"js_campo_competencia.js":{"caminho":"campos\/js_campo_competencia.js","hash":"407b91f5"},"js_campo_inscricao_estadual.js":{"caminho":"campos\/js_campo_inscricao_estadual.js","hash":"325a834d"},"js_campo_certidao_nascimento.js":{"caminho":"campos\/js_campo_certidao_nascimento.js","hash":"c3487275"},"js_highcharts_draggable_points.js":{"caminho":"highcharts\/js_highcharts_draggable_points.js","hash":"bea6542e"},"js_highcharts_3d.js":{"caminho":"highcharts\/js_highcharts_3d.js","hash":"bea6542e"},"js_highcharts_accessibility.js":{"caminho":"highcharts\/js_highcharts_accessibility.js","hash":"bea6542e"},"js_highcharts_export_data.js":{"caminho":"highcharts\/js_highcharts_export_data.js","hash":"bea6542e"},"js_highcharts_tilemap.js":{"caminho":"highcharts\/js_highcharts_tilemap.js","hash":"bea6542e"},"js_highcharts_exporting.js":{"caminho":"highcharts\/js_highcharts_exporting.js","hash":"bea6542e"},"js_highcharts_heatmap.js":{"caminho":"highcharts\/js_highcharts_heatmap.js","hash":"bea6542e"},"js_highcharts_offline_exporting.js":{"caminho":"highcharts\/js_highcharts_offline_exporting.js","hash":"bea6542e"},"js_highcharts_more.js":{"caminho":"highcharts\/js_highcharts_more.js","hash":"bea6542e"},"js_gadgets.js":{"caminho":"componentes\/js_gadgets.js","hash":"407b91f5"},"js_consulta_grid.js":{"caminho":"componentes\/consulta\/js_consulta_grid.js","hash":"8e107997"},"js_consulta_grid_rodape.js":{"caminho":"componentes\/consulta\/js_consulta_grid_rodape.js","hash":"8e107997"},"js_consulta_grid_dados.js":{"caminho":"componentes\/consulta\/js_consulta_grid_dados.js","hash":"8c53aade"},"js_componente_data_grid.js":{"caminho":"componentes\/consulta\/js_componente_data_grid.js","hash":"8e107997"},"js_step_by_step.js":{"caminho":"componentes\/js_step_by_step.js","hash":"407b91f5"},"js_tabela_dados.js":{"caminho":"componentes\/js_tabela_dados.js","hash":"407b91f5"},"js_componente_calculadora.js":{"caminho":"componentes\/js_componente_calculadora.js","hash":"2cae58ce"},"js_socketio.js":{"caminho":"js_socketio.js","hash":"c3487275"},"js_editor_formula.js":{"caminho":"editores\/js_editor_formula.js","hash":"2cae58ce"},"js_editor_plugin.js":{"caminho":"editores\/js_editor_plugin.js","hash":"582fbc29"},"js_editor_autocompletar.js":{"caminho":"editores\/js_editor_autocompletar.js","hash":"407b91f5"},"js_editor_codigo_fonte.js":{"caminho":"editores\/js_editor_codigo_fonte.js","hash":"b38945e9"},"js_editor_configuracao.js":{"caminho":"editores\/js_editor_configuracao.js","hash":"721548ae"},"js_editor_textos_articulados.min.js":{"caminho":"editores\/js_editor_textos_articulados.min.js","hash":"721548ae"},"js_componente_editor_textos_articulados.js":{"caminho":"editores\/js_componente_editor_textos_articulados.js","hash":"721548ae"},"js_lexml.min.js":{"caminho":"editores\/js_lexml.min.js","hash":"721548ae"},"js_consulta_funcoes.js":{"caminho":"componentes\/consulta\/js_consulta_funcoes.js","hash":"8e107997"},"js_componente_data_source.js":{"caminho":"componentes\/consulta\/js_componente_data_source.js","hash":"8e107997"},"js_consulta_filtros.js":{"caminho":"componentes\/consulta\/js_consulta_filtros.js","hash":"8e107997"},"js_componente_data_mapa.js":{"caminho":"componentes\/consulta\/js_componente_data_mapa.js","hash":"2cae58ce"},"js_consulta_grid_filtros.js":{"caminho":"componentes\/consulta\/js_consulta_grid_filtros.js","hash":"8c53aade"},"js_consulta_grid_acoes.js":{"caminho":"componentes\/consulta\/js_consulta_grid_acoes.js","hash":"8e107997"},"js_componente_data_card_base.js":{"caminho":"componentes\/consulta\/js_componente_data_card_base.js","hash":"8e107997"},"js_componente_data_card_detalhes.js":{"caminho":"componentes\/consulta\/js_componente_data_card_detalhes.js","hash":"c50889aa"},"js_componente_exibicao_consulta_grid_drag.js":{"caminho":"componentes\/consulta\/js_componente_exibicao_consulta_grid_drag.js","hash":"8e107997"},"js_indicador_ponteiro.js":{"caminho":"componentes\/js_indicador_ponteiro.js","hash":"407b91f5"},"js_checkbox.js":{"caminho":"componentes\/js_checkbox.js","hash":"407b91f5"},"js_indicador_grafico.js":{"caminho":"componentes\/js_indicador_grafico.js","hash":"bea6542e"},"js_accordion_content.js":{"caminho":"componentes\/js_accordion_content.js","hash":"407b91f5"},"js_imagem_container.js":{"caminho":"componentes\/js_imagem_container.js","hash":"407b91f5"},"js_drag_area.js":{"caminho":"componentes\/js_drag_area.js","hash":"407b91f5"},"js_tela_wizard.js":{"caminho":"componentes\/js_tela_wizard.js","hash":"b38945e9"},"js_imagem_miniatura.js":{"caminho":"componentes\/js_imagem_miniatura.js","hash":"407b91f5"},"js_botoes_fluxo.js":{"caminho":"componentes\/js_botoes_fluxo.js","hash":"407b91f5"},"js_botoes_imagem.js":{"caminho":"componentes\/js_botoes_imagem.js","hash":"407b91f5"},"js_tela_tab.js":{"caminho":"componentes\/js_tela_tab.js","hash":"b38945e9"},"js_imagem_captura.js":{"caminho":"componentes\/js_imagem_captura.js","hash":"407b91f5"},"js_botoes_sistema.js":{"caminho":"componentes\/js_botoes_sistema.js","hash":"407b91f5"},"js_componente_modal.js":{"caminho":"componentes\/js_componente_modal.js","hash":"407b91f5"},"js_cronometro.js":{"caminho":"componentes\/js_cronometro.js","hash":"407b91f5"},"js_tela_msg.js":{"caminho":"componentes\/js_tela_msg.js","hash":"407b91f5"},"js_indicador_lista_agrupada.js":{"caminho":"componentes\/js_indicador_lista_agrupada.js","hash":"407b91f5"},"js_fieldset.js":{"caminho":"componentes\/js_fieldset.js","hash":"8e107997"},"js_splitter.js":{"caminho":"componentes\/js_splitter.js","hash":"8c53aade"},"js_tela_item_grid.js":{"caminho":"componentes\/js_tela_item_grid.js","hash":"c50889aa"},"js_context_flutuante.js":{"caminho":"componentes\/js_context_flutuante.js","hash":"4f8d28b8"},"js_accordion_item.js":{"caminho":"componentes\/js_accordion_item.js","hash":"407b91f5"},"js_separador.js":{"caminho":"componentes\/js_separador.js","hash":"407b91f5"},"js_console_sql.js":{"caminho":"componentes\/js_console_sql.js","hash":"bea6542e"},"js_indicador_semaforo.js":{"caminho":"componentes\/js_indicador_semaforo.js","hash":"407b91f5"},"js_progress_bar.js":{"caminho":"componentes\/js_progress_bar.js","hash":"bea6542e"},"js_componentes_proxy.js":{"caminho":"componentes\/js_componentes_proxy.js","hash":"0e1d9771"},"js_componente_html.js":{"caminho":"componentes\/js_componente_html.js","hash":"bea6542e"},"js_collapse_content.js":{"caminho":"componentes\/js_collapse_content.js","hash":"407b91f5"},"js_grupo_obrigatorio_campo_form.js":{"caminho":"componentes\/js_grupo_obrigatorio_campo_form.js","hash":"407b91f5"},"js_tela_janela.js":{"caminho":"componentes\/js_tela_janela.js","hash":"8e107997"},"js_relogio.js":{"caminho":"componentes\/js_relogio.js","hash":"407b91f5"},"js_spectrum.js":{"caminho":"componentes\/js_spectrum.js","hash":"407b91f5"},"js_tela_tab_sheet.js":{"caminho":"componentes\/js_tela_tab_sheet.js","hash":"c50889aa"},"js_tela_item_aba.js":{"caminho":"componentes\/js_tela_item_aba.js","hash":"b38945e9"},"js_botoes_arvore.js":{"caminho":"componentes\/js_botoes_arvore.js","hash":"407b91f5"},"js_botoes_estrutura.js":{"caminho":"componentes\/js_botoes_estrutura.js","hash":"407b91f5"},"js_barra_ferramentas.js":{"caminho":"componentes\/js_barra_ferramentas.js","hash":"407b91f5"},"js_botoes_acao.js":{"caminho":"componentes\/js_botoes_acao.js","hash":"c3487275"},"js_label.js":{"caminho":"componentes\/js_label.js","hash":"407b91f5"},"js_slider.js":{"caminho":"componentes\/js_slider.js","hash":"2cae58ce"},"js_indicador_padrao.js":{"caminho":"componentes\/js_indicador_padrao.js","hash":"bea6542e"},"js_componente_hint.js":{"caminho":"componentes\/js_componente_hint.js","hash":"934a4105"},"js_indicador_mapa_registros.js":{"caminho":"componentes\/js_indicador_mapa_registros.js","hash":"934a4105"},"js_botoes_icone_sistema.js":{"caminho":"componentes\/js_botoes_icone_sistema.js","hash":"934a4105"},"js_context_gadget.js":{"caminho":"componentes\/js_context_gadget.js","hash":"934a4105"},"js_linha_tempo_sintetica.js":{"caminho":"componentes\/js_linha_tempo_sintetica.js","hash":"934a4105"},"js_imagem_editor.js":{"caminho":"componentes\/js_imagem_editor.js","hash":"8e107997"},"js_botoes_rotina.js":{"caminho":"componentes\/js_botoes_rotina.js","hash":"934a4105"},"js_barra_navegacao.js":{"caminho":"componentes\/js_barra_navegacao.js","hash":"8c53aade"},"js_componente_chatbot.js":{"caminho":"componentes\/js_componente_chatbot.js","hash":"0e1d9771"},"js_powerbi.min.js":{"caminho":"js_powerbi.min.js","hash":"2cae58ce"},"main_sync_b554ef8df0cdea6cb6bdf269c1755f89.js":{"caminho":"bundle\/main_sync_b554ef8df0cdea6cb6bdf269c1755f89.js","hash":"51639e1d"},"main_async_517a83d08bf78b711fe3fa885d5dd3d8.js":{"caminho":"bundle\/main_async_517a83d08bf78b711fe3fa885d5dd3d8.js","hash":"51639e1d"},"main_sync_ac8ec864664c9f15fda4523e5ef3c1ed.js":{"caminho":"bundle\/main_sync_ac8ec864664c9f15fda4523e5ef3c1ed.js","hash":"3abf46cb"},"main_async_b8aa468d46c5c9f33732777e4e88f0a8.js":{"caminho":"bundle\/main_async_b8aa468d46c5c9f33732777e4e88f0a8.js","hash":"3abf46cb"},"main_sync_526e686cab05d9ce66060bb36c2b33e5.js":{"caminho":"bundle\/main_sync_526e686cab05d9ce66060bb36c2b33e5.js","hash":"b1036b0f"},"main_sync_96465bed8321c03a5877fb4b3f3eafaf.js":{"caminho":"bundle\/main_sync_96465bed8321c03a5877fb4b3f3eafaf.js","hash":"bd7da548"},"main_sync_cf18732e05ece051e427b8a93cb11cae.js":{"caminho":"bundle\/main_sync_cf18732e05ece051e427b8a93cb11cae.js","hash":"1bac482f"},"main_sync_81e8ab29674f3f25fb79582c1d424fd3.js":{"caminho":"bundle\/main_sync_81e8ab29674f3f25fb79582c1d424fd3.js","hash":"f44caa5e"},"main_sync_12329448c72956292d5df22db0527d0f.js":{"caminho":"bundle\/main_sync_12329448c72956292d5df22db0527d0f.js","hash":"43884d19"},"main_async_238b8c3ab547940b01c0b89555ee85a1.js":{"caminho":"bundle\/main_async_238b8c3ab547940b01c0b89555ee85a1.js","hash":"43884d19"},"main_sync_1c30bed5d7abf272d7ecc60eef248206.js":{"caminho":"bundle\/main_sync_1c30bed5d7abf272d7ecc60eef248206.js","hash":"3c7fe373"},"main_sync_be21d28cff6c04c7175e7059f0a94877.js":{"caminho":"bundle\/main_sync_be21d28cff6c04c7175e7059f0a94877.js","hash":"57595757"},"main_sync_b3883d8dc358a2137b5a6f911613947b.js":{"caminho":"bundle\/main_sync_b3883d8dc358a2137b5a6f911613947b.js","hash":"57595757"},"main_async_7b827b5786f3ba78ab95bcde68a82e56.js":{"caminho":"bundle\/main_async_7b827b5786f3ba78ab95bcde68a82e56.js","hash":"57595757"},"js_editor_worker.min.js":{"caminho":"js_editor_worker.min.js","hash":"bfccf324"},"js_portal_gerenciamento_cookies.js":{"caminho":"js_portal_gerenciamento_cookies.js","hash":"9414dc82"},"js_devtools.js":{"caminho":"js_devtools.js","hash":"98e42479"},"js_ipm_websocket.js":{"caminho":"js_ipm_websocket.js","hash":"c3487275"},"js_worker_interval.js":{"caminho":"js_worker_interval.js","hash":"78e6c6fd"}};window['__oEstilos'] = {"css_ipm_forms.css":"0b78f306","css_editor_blocos.css":"2c2f8d8f","css_workflow.css":"09f81c51","css_legenda.css":"7f63c375","css_relogio.css":"05a3ca46","css_editor_conteudo.css":"0a14713e","css_tour.css":"cff7cda4","css_shepherd.css":"f24f573a","css_consulta_grid.css":"b84ceeb9","css_accordion.css":"5a4565d6","css_step_by_step.css":"7f191668","css_tabela_dados.css":"304e522f","css_linha_tempo_resumida.css":"9e37127e","css_componente_calculadora.css":"f7a1282f","css_editor_textos_articulados.css":"214e1c37","css_slider.css":"f3f62189","css_editor_fonte.css":"8cc49996","css_barra_navegacao.css":"582f02f4"};window['__oImagens'] = {"imagem_temas_padrao_fluxo_alinhamento.svg":"e55313a9","imagem_temas_padrao_icones_base.svg":"5fcd0e77","imagem_temas_padrao_icones_conjunto.svg":"341dbe95","imagem_temas_padrao_icones_gadgets.svg":"7a03e421","imagem_temas_padrao_icones_portais.svg":"b4fcf551","imagem_temas_padrao_icones_sistema.svg":"a1bd4844"};window['__oSistemaEntidade'] = {"28":["2850","11354","12501","12502","12503"],"107":[],"52":[],"83":[],"135":[],"19":[],"3":["2850","11354","12497"],"127":[],"112":[],"4":["2850","11354"],"1":["2850"],"63":[],"92":[],"71":[],"13":[],"136":[],"35":["2850"],"33":["2850"],"49":["2850","11354"],"29":["2850"],"72":[],"76":[],"84":[],"10":["2850","11354","12497","12501","12502","12503"],"64":[],"14":[],"37":["2850","11354","12497","12501","12502","12503","25826"],"12":["2850"],"113":[],"62":["2850"],"98":[],"34":["2850"],"25":["2850","11354","12497","12501","12502"],"5":["2850","11354","12497"],"108":[],"50":["2850","11354","12497","12501","12502"],"119":["2850"],"73":[],"2":["2850"],"124":[],"85":[],"110":[],"6":["2850","11354","12497"],"38":["2850","11354","12497","12501","12502","12503","25826"],"15":[],"65":[],"114":[],"100":[],"40":["2850"],"102":[],"16":["2850"],"77":[],"67":["2850"],"74":[],"78":[],"7":["2850","11354","12497"],"94":[],"56":[],"54":["2850"],"111":[],"39":["2850","11354","12497","12501","12502","12503","25826"],"22":[],"66":[],"59":["2850"],"17":["2850"],"18":["2850","11354","12497","12501","12502","12503"],"86":[],"46":["2850"],"75":[],"61":["2850"],"41":["2850"],"70":["2850"],"27":["2850","11354","12501","12502"],"90":[],"51":[],"68":[],"45":["2850","11354","12497","12501","12502","12503","25826"],"87":[],"8":["2850","11354","12497"],"99":[],"43":[],"91":[],"79":[],"105":[],"101":[],"123":["2850"],"36":["2850"],"80":[],"130":[],"120":[],"9":["2850","11354"],"116":[],"88":[],"53":["2850"],"103":["2850","11354","12497"],"137":[],"139":[],"125":[],"106":[],"55":[],"44":["2850"],"60":[],"20":["2850","11354"],"96":[],"89":[],"143":[],"95":[],"69":[],"81":[],"42":["2850"],"132":[],"21":[],"128":[],"134":[],"57":["2850"],"11":["2850","11354","12497","12501","12502","12503","25826"],"145":[],"82":[],"93":[],"126":["2850","11354"],"133":[],"138":["2850"],"58":[],"97":[],"115":[],"31":[],"109":[],"144":[],"142":[],"117":[],"104":[],"140":[],"121":[],"122":[],"118":[],"131":[],"129":[],"141":[]};window['__iLimitUpload'] = 2048;window['__iSubmitMaxPost'] = 16384;window['__iSubmitMaxUpload'] = 102400;window['__iSubmitMaxNumUploads'] = 100;window['__iAnoInicial'] = 1800;window['__iAnoFinal'] = 2200;window['__bUsuarioTecnico'] = false;window['__sClienteUf'] = "PR";window['__sCriptoCampos'] = "33a42e3f54deaa828d24deb0ec170fb1";window['__sClientIdGoogleOAuth'] = "900377308642-ccq08mdm0sv7s33n322uqnf45kkkink0.apps.googleusercontent.com";window['__sGoogleMapsApiKey'] = "AIzaSyBbrtaPZlH0EKMkf0PxfHPVGESJp1RzutQ";window['__sGoogleStaticMapsApiKey'] = "AIzaSyBbrtaPZlH0EKMkf0PxfHPVGESJp1RzutQ";window['__sGoogleDriveApiKey'] = "";window['__sGoogleFilePickerApiKey'] = "";window['__sGoogleRecaptchaSiteKeyV2'] = "6Lf5M64UAAAAAIQlJW7JZ82bxQ4gqvl1WZGBskTv";window['__sGoogleRecaptchaSiteKeyV3'] = "6Lf9M64UAAAAADHo4aPjuoYGc7I1FSStwsq4blkJ";window['__sGoogleRecaptchaVersion'] = "vh";window['__iCaptchaMode'] = 1;window['__sPSPDFKitKey'] = "PReM6NzbdLFC-C1FdjtgmScDiEN9jt56rdVtK6n6OWsxSsGH4NExOvnZLwdKixcuVaZdWe4szBe2NgODLojJiKDipEKVbuvEglyCx5ZPU5iZN_EOneeHwk7MrJGxDEsZZLhF5VWw8h6H_gWzinEmd0PEDXPueh0epOCq5w99h3WagVbrq2io4j5jC3Ibcmu82nSqA0K4X6rLJtnU3TnigWIEt8F-3Rix3QUcE1KUNyrUeN8Y1rEoAl1O3iuoipL-2M_99BWvsvzrXFSvlCbMZ-daFnD8ZvSmMfV9dZr6KGhrTdUOomFHLF4Eg43JMJLLGFtY9rgLiPovKdUOKrEM0YHT5t5zM_xM5nIys_Oj6XtIziD1Hl209gdN33CQp8n1Bivie0nTcj1bnycHe2OcD4fYQb7a-bHxhuqIy2_UdJ2AUM922iwD2egjfPwgTs-ucTZHVLVQt7qT5Lz14eq0mn8wyRwhNslzAsmwwhEmZLJLB_jgdD1ewf87Kyoo5iPXNmX3nkT3G1Z7FRCN66z3p3a48wxEoPYSW6MA9e25BehQGM9BMjIlDVhS5gpLLve5p5rFWhiwPOkB4KFo-soIOU7rKsbjjoaLoGOceunGPyI=";window['__sLocalIpAddress'] = "143.0.116.1";window['__versaoLayoutSistema'] = "v2";window['__utilizaMapsIpmDefault'] = false;window['__enderecoMapsIpm'] = "";window['__enderecoMapsNominatim'] = "";window['__enderecoMapsTileServ'] = "";window['__mapasPadroes'] = []</script>
+<script type="text/javascript" src="estrutura/js/js_mensagem_sistema_v2.js?v=fe0f2818" load="true"></script><script  type="text/javascript" src="static/bundle/diario_oficial_padrao_sync_4594008e4ec835c741f28ae10c5f0652.js?v=2edec40f" load="true"></script><script  async defer type="text/javascript" src="static/bundle/diario_oficial_padrao_async_0d2a903e6e4c34239d1da179b43296aa.js?v=2edec40f" load="true"></script><script id="warn_console">console.log('%cATENÇÃO!','color:red;font-weight:bold;font-size:50px;-webkit-text-stroke:2px black;text-stroke:2px black');console.log('Este é um recurso do navegador voltado para desenvolvedores. Não utilize caso não compreenda seu funcionamento.');console.log('%cNunca copie e cole conteúdo de outros locais aqui.Se alguém disse para você copiar e colar algo aqui para ativar um recurso do sistema ou qualquer outra ação relacionada, isso é uma fraude e você poderá ser penalizado por isso.', 'font-weight:bold;font-size:15px');document.getElementById('warn_console').remove&&document.getElementById('warn_console').remove();</script>        <script>
+            function getAllFiltrosTela() {
+                var aParametrosUrl = Array();
+
+                objectMesSelecionado = $('.selecionado');
+                if (objectMesSelecionado.length == 1) {
+                    aParametrosUrl.push('mes');
+                    aParametrosUrl.push(objectMesSelecionado.data('mes'));
+                    aParametrosUrl.push('ano');
+                    aParametrosUrl.push(objectMesSelecionado.data('ano'));
+                }
+
+                var numEdicao = $('#numEdicao').val();
+                if (!em_branco(numEdicao)) {
+                    aParametrosUrl.push('numeroEdicao');
+                    aParametrosUrl.push(numEdicao);
+                }
+
+                var palavrachave = $('#palavrachave').val();
+                if (!em_branco(palavrachave)) {
+                    aParametrosUrl.push('termo');
+                    aParametrosUrl.push(encodeURI(palavrachave));
+                }
+
+                var periodode = $('#periodode').val();
+                if (!em_branco(periodode)) {
+                    if (/^(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[012])\/[12][0-9]{3}$/.test(periodode)) {
+                        aParametrosUrl.push('dataInicial');
+                        aParametrosUrl.push(periodode.replace(/(\d{2})\/(\d{2})\/(\d{4})/, '$1-$2-$3'));
+                    } else {
+                        $('#periodode').val('');
+                    }
+                }
+
+                var periodoate = $('#periodoate').val();
+                if (!em_branco(periodoate)) {
+                    if (/^(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[012])\/[12][0-9]{3}$/.test(periodoate)) {
+                        aParametrosUrl.push('dataFinal');
+                        aParametrosUrl.push(periodoate.replace(/(\d{2})\/(\d{2})\/(\d{4})/, '$1-$2-$3'));
+                    } else {
+                        $('#periodoate').val('');
+                    }
+                }
+                return aParametrosUrl;
+            }
+
+            $(function () {
+                $('#periodode, #periodoate').inputmask("9{1,2}/9{1,2}/9{1,4}");
+                $('.tituloAno').on("click", function () {
+                    if ($(this).parent().hasClass("aberto")) {
+                        $(this).parent().removeClass("aberto");
+                        $(this).parent().css("height", "35");
+                    } else {
+                        $(".filtroAnos .ano").removeClass("aberto");
+                        $(".filtroAnos .ano").parent().addClass("aberto");
+                        $(this).parent().addClass("aberto");
+                        $(".filtroAnos .ano").height("35");
+                        $(this).parent().height(parseInt($(this).siblings(".listaMeses").height() + 40));
+                    }
+                });
+
+                $('.item-filtro-consulta').keypress(function (e) {
+                    if (e.which == 13) {
+                        var oBotaoConsulta = $('.submit_consulta_edicao');
+
+                        oBotaoConsulta.focus();
+                        oBotaoConsulta.click();
+                    }
+                });
+
+                $('.submit_consulta_edicao').on("click", function () {
+                    changeUrl(getAllFiltrosTela(), onUpdateState);
+                });
+
+                $('.submit_consulta_edicao_data').on("click", function () {
+                    if ($('.selecionado')[0] == $(this)[0]) {
+                        removeSelecaoMes();
+                    } else {
+                        atualizaSelecaoMes($(this));
+                    }
+                    changeUrl(getAllFiltrosTela(), onUpdateState);
+                });
+
+                function atualizaSelecaoMes(obj) {
+                    removeSelecaoMes();
+                    obj.addClass('selecionado');
+                }
+
+                $('.limpar').on("click", function () {
+                    if (contemFiltro()) {
+                        limpaFiltro();
+                        changeUrl([], onUpdateState);
+                    }
+                });
+
+                function contemFiltro() {
+                    var aFiltro = [];
+
+                    var iFiltroMes = HistoryHandlerDiarioOficial.getFiltro('mes');
+                    if (iFiltroMes) {
+                        aFiltro.push(iFiltroMes);
+                    }
+
+                    var iFiltroAno = HistoryHandlerDiarioOficial.getFiltro('ano');
+                    if (iFiltroAno) {
+                        aFiltro.push(iFiltroAno);
+                    }
+
+                    var iFiltroTermo = HistoryHandlerDiarioOficial.getFiltro('termo');
+                    if (iFiltroTermo) {
+                        aFiltro.push(iFiltroTermo);
+                    }
+
+                    var iFiltroPagina = HistoryHandlerDiarioOficial.getFiltro('pagina');
+                    if (iFiltroPagina) {
+                        aFiltro.push(iFiltroPagina);
+                    }
+
+                    var iFiltroNumeroEdicao = HistoryHandlerDiarioOficial.getFiltro('numeroEdicao');
+                    if (iFiltroNumeroEdicao) {
+                        aFiltro.push(iFiltroNumeroEdicao);
+                    }
+
+                    var iFiltroDataInicial = HistoryHandlerDiarioOficial.getFiltro('dataInicial');
+                    if (iFiltroDataInicial) {
+                        aFiltro.push(iFiltroDataInicial);
+                    }
+
+                    var iFiltroDataFinal = HistoryHandlerDiarioOficial.getFiltro('dataFinal');
+                    if (iFiltroDataFinal) {
+                        aFiltro.push(iFiltroDataFinal);
+                    }
+
+                    return !$.isEmptyObject(getAllFiltrosTela());
+                }
+
+                function carregaCamposFiltro() {
+                    var iNumeroEdicao = HistoryHandlerDiarioOficial.getFiltro('numeroEdicao', false);
+                    if (iNumeroEdicao && isNumeric(iNumeroEdicao)) {
+                        $('#numEdicao').val(iNumeroEdicao);
+                    }
+
+                    var sTermo = HistoryHandlerDiarioOficial.getFiltro('termo', false);
+                    if (sTermo) {
+                        $('#palavrachave').val(decodeURI(sTermo));
+                    }
+
+                    var sDataInicial = HistoryHandlerDiarioOficial.getFiltro('dataInicial', false);
+                    if (sDataInicial && /^(0[1-9]|[12][0-9]|3[01])\-(0[1-9]|1[012])\-[12][0-9]{3}$/.test(sDataInicial)) {
+                        $('#periodode').val(sDataInicial.replace(/(\d{2})\-(\d{2})\-(\d{4})/, '$1/$2/$3'));
+                    }
+
+                    var sDataFinal = HistoryHandlerDiarioOficial.getFiltro('dataFinal', false);
+                    if (sDataFinal && /^(0[1-9]|[12][0-9]|3[01])\-(0[1-9]|1[012])\-[12][0-9]{3}$/.test(sDataFinal)) {
+                        $('#periodoate').val(sDataFinal.replace(/(\d{2})\-(\d{2})\-(\d{4})/, '$1/$2/$3'));
+                    }
+
+                    var iMes = HistoryHandlerDiarioOficial.getFiltro('mes', false);
+                    var iAno = HistoryHandlerDiarioOficial.getFiltro('ano', false);
+
+                    if (iMes && iAno && /^([1-9]|1[0-2])$/.test(iMes) && /^\d{4}$/.test(iAno)) {
+                        $('span[data-mes="' + iMes + '"][data-ano="' + iAno + '"]').addClass('selecionado');
+                        $('span:contains("' + iAno + '")').click();
+                    }
+                }
+
+                function processaAberturaPorLink() {
+                    if (HistoryHandlerDiarioOficial.isUrlAmigavel()) {
+                        if (!HistoryHandlerDiarioOficial.getSecao()) {
+                            carregaEstruturaConteudoDiarioOficial('edicao');
+                        } else {
+                            carregaCamposFiltro();
+                            onUpdateState();
+                        }
+                    } else {
+                        var oParametrosLink = {};
+                        var aDadosUrl = window.location.href.split('?');
+                        var sLink = aDadosUrl[0].concat('diariooficial');
+                        var aParametros = aDadosUrl[1] ? aDadosUrl[1].split('&') : [];
+
+                        $.each(aParametros, function (iIndice, sObjeto) {
+                            aDadosChave = sObjeto.split('=');
+                            switch (aDadosChave[0]) {
+                                case       'edicao':
+                                case       'pagina':
+                                case 'numeroEdicao':
+                                case          'ate':
+                                case           'de':
+                                case        'termo':
+                                case          'mes':
+                                case          'ano':
+                                    if (aDadosChave[1]) {
+                                        var sNomeParametroTratado = getNomeParametroAntigoTratado(aDadosChave[0]);
+                                        oParametrosLink[sNomeParametroTratado] = getValorParametroAntigoTratado(aDadosChave[0], aDadosChave[1]);
+                                    }
+                                    break;
+                            }
+                        });
+
+                        if ($.isEmptyObject(oParametrosLink)) {
+                            carregaEstruturaConteudoDiarioOficial('edicao');
+                        } else {
+                            sLink = sLink.concat('/edicao');
+                            if (oParametrosLink['edicao']) {
+                                sLink = sLink.concat('/' + oParametrosLink['edicao'])
+                            } else {
+                                $.each(oParametrosLink, function (sNomeParametro, xValorParametro) {
+                                    sLink = sLink.concat('/' + sNomeParametro + '/' + xValorParametro);
+                                });
+                            }
+                            location.href = sLink;
+                        }
+                    }
+                }
+
+                function getNomeParametroAntigoTratado(sNomeParametro) {
+                    switch (sNomeParametro) {
+                        case 'de':
+                            sNomeParametro = 'dataInicial';
+                            break;
+                        case 'ate':
+                            sNomeParametro = 'dataFinal';
+                            break;
+                    }
+
+                    return sNomeParametro;
+                }
+
+                function getValorParametroAntigoTratado(sNomeParametro, xValorParametro) {
+                    switch (sNomeParametro) {
+                        case 'de':
+                        case 'ate':
+                            xValorParametro = decodeURIComponent(xValorParametro);
+                            xValorParametro = xValorParametro.replace(/(\d{2})\/(\d{2})\/(\d{4})/, '$1-$2-$3')
+                            break;
+                        case 'termo':
+                            xValorParametro = decodeURI(xValorParametro);
+                            break;
+                    }
+
+                    return xValorParametro;
+                }
+
+                processaAberturaPorLink();
+
+                $(window).on('popstate', function () {
+                    limpaFiltro();
+                    processaAberturaPorLink();
+                });
+
+                    });
+        </script>
+        <script> window['__enderecoFontAwesomeJson'] = "estrutura\/js\/icones_fa.json?v=1696861897"; </script></head>
+            <script type="text/javascript">
+                window.CONST.PERMITE_TRADUZIR = false;
+                /* INSTANCIA O TRADUTOR */
+                (() => {
+                    if(window.CONST.PERMITE_TRADUZIR){
+                        oTradutor = new TradutorPortal();
+                        oTradutor.init({
+                            sizeIcon: '1.5rem',
+                            target: document.querySelector('.opt.tradutor')
+                        });
+                    }
+                })();
+            </script>
+        <div id="modal"><div class="center"><div id="anexo"><div class="border-azul-fn-top"><div></div></div><div class="conteudo"><button class="close fa fa-close" title="Fechar"></button><div class="conteudo-anexo"><div class="titulo"></div><ul class="lista-anexo"></ul></div></div><div class="border-azul-fn-bottom"><div></div></div></div></div></div><div class="corpo_site" id="container">
+                <script>
+                //menu mobile code
+                $(function(){
+                    $('.menul-mobile').on("click", function(){
+                        if($('.box-menul-mobile').hasClass('menul-mobile-selecionado')){
+                            $('.box-menul-mobile').removeClass('menul-mobile-selecionado');
+                        } else {
+                            $('.box-menul-mobile').addClass('menul-mobile-selecionado');
+                        }
+                    });
+
+                    $('.box-menul-mobile a').on("click", function(){
+                        $('.box-menul-mobile').removeClass('menul-mobile-selecionado');
+                    });
+                });
+
+                </script><header class="header_topo">
+                            <header class="container barra_topo">
+                                <div class="menu_login">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-12" style="padding: 0">
+                                                <div class="menul-mobile"><span class="fa fa-cube"></span><a href="#" title="Portais">Portais</a></div>
+                                                <nav class="box-menul-mobile" style="height:151.5px"><a href="https://campomourao.atende.net/autoatendimento/" target="_blank" title="Autoatendimento">Autoatendimento</a><a href="/autoatendimento/servicos/acesso-ao-sistema-de-escrita-fiscal/detalhar/1" target="_blank" title="Escrita Fiscal">Escrita Fiscal</a><a href="/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica/detalhar/1" target="_blank" title="Nota Fiscal Eletrônica">Nota Fiscal Eletrônica</a><a href="/transparencia/" target="_blank" title="Portal da Transparência">Portal da Transparência</a><a href="/cidadao/" target="_blank" title="Portal do Cidadão">Portal do Cidadão</a></nav>
+                                                <nav class="menul"><span><a href="https://campomourao.atende.net/autoatendimento/" target="_blank" title="Autoatendimento">Autoatendimento</a></span><span><a href="/autoatendimento/servicos/acesso-ao-sistema-de-escrita-fiscal/detalhar/1" target="_blank">Escrita Fiscal</a></span><span><a href="/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica/detalhar/1" target="_blank">Nota Fiscal Eletrônica</a></span><span><a href="/transparencia/" target="_blank">Portal da Transparência</a></span><span><a href="/cidadao/" target="_blank" title="Portal do Cidadão">Portal do Cidadão</a></span>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="logo_procurar">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="logo"><div class="portal_logo">
+                                                                            <span>Órgão Oficial Eletrônico</span>
+                                                                        </div>
+                                                                        <a href="/diariooficial/">
+                                                                            <img class="global_logo_topo" src="https://campomourao.atende.net/atende.php?rot=49080&aca=105&processo=renderImage&parametro=%7B%22type%22%3A11%2C%22codigo%22%3A%220346B974E90F790058A4F0574BCB7DD6E944AAF0%22%2C%22transparencia%22%3Atrue%7D&cidade=padrao">
+                                                                        </a><span class="opt tradutor" data-toogle="tooltip" style="display: flex;justify-content: center; align-items: center;"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </header>
+                        </header><div id="border-azul-fn-top"></div>
+                <div id="conteudo" class="container">
+                    <div class="row">
+                        <div class="col-md-3">
+                <input type="hidden" name="pg" value="diariooficial" />
+                <div id="areaacaoconteudobusca" class="filtroBusca">
+                    <h1>Pesquisa</h1>
+                    <div class="linha">
+                        <span class="numero">Número Edição</span>
+                        <input type="text" id="numEdicao" class="item-filtro-consulta" name="numeroEdicao" maxlength="5"/>
+                    </div>
+                    <div class="linha">
+                        <span class="periodo">Período</span> <input class="item-filtro-consulta" type="text" name="de" id="periodode" placeholder="00/00/0000" />
+                        <span>Até</span><input class="item-filtro-consulta" type="text" name="ate" id="periodoate"  placeholder="00/00/0000" />
+                    </div>
+                    <div class="linha">
+                        Palavra-Chave <input class="pc item-filtro-consulta" type="text" name="termo" id="palavrachave" placeholder="O que você procura?" />
+                    </div>
+                    <div>
+                        <button class="limpar" type="reset">Limpar</button>
+                        <button class="submit_consulta_edicao">Pesquisar 
+                            <span class="fa fa-search" style="margin-left: 5px;"></span>
+                        </button>
+                    </div>
+                    <div class="filtroAnos">
+                     <div class="ano aberto">
+                            <span class="tituloAno">2023<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2023">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2023">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2023">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2023">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2023">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2023">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2023">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2023">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2023">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2023">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2022<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2022">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2022">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2022">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2022">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2022">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2022">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2022">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2022">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2022">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2022">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2022">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2022">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2021<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2021">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2021">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2021">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2021">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2021">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2021">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2021">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2021">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2021">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2021">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2021">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2021">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2020<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2020">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2020">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2020">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2020">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2020">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2020">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2020">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2020">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2020">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2020">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2020">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2020">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2019<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2019">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2019">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2019">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2019">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2019">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2019">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2019">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2019">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2019">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2019">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2019">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2019">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2018<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2018">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2018">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2018">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2018">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2018">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2018">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2018">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2018">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2018">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2018">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2018">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2018">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2017<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2017">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2017">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2017">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2017">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2017">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2017">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2017">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2017">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2017">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2017">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2017">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2017">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2016<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2016">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2016">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2016">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2016">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2016">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2016">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2016">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2016">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2016">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2016">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2016">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2016">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2015<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2015">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2015">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2015">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2015">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2015">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2015">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2015">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2015">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2015">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2015">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2015">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2015">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2014<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2014">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2014">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2014">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2014">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2014">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2014">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2014">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2014">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2014">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2014">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2014">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2014">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2013<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2013">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2013">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2013">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2013">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2013">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2013">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2013">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2013">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2013">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2013">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2013">Fevereiro</span><span class="mes submit_consulta_edicao_data" data-mes="1" data-ano="2013">Janeiro</span>
+                            </div>
+                        </div> <div class="ano ">
+                            <span class="tituloAno">2012<span class="triangulo"></span></span> 
+                            <div class="listaMeses">
+                                <span class="mes submit_consulta_edicao_data" data-mes="12" data-ano="2012">Dezembro</span><span class="mes submit_consulta_edicao_data" data-mes="11" data-ano="2012">Novembro</span><span class="mes submit_consulta_edicao_data" data-mes="10" data-ano="2012">Outubro</span><span class="mes submit_consulta_edicao_data" data-mes="9" data-ano="2012">Setembro</span><span class="mes submit_consulta_edicao_data" data-mes="8" data-ano="2012">Agosto</span><span class="mes submit_consulta_edicao_data" data-mes="7" data-ano="2012">Julho</span><span class="mes submit_consulta_edicao_data" data-mes="6" data-ano="2012">Junho</span><span class="mes submit_consulta_edicao_data" data-mes="5" data-ano="2012">Maio</span><span class="mes submit_consulta_edicao_data" data-mes="4" data-ano="2012">Abril</span><span class="mes submit_consulta_edicao_data" data-mes="3" data-ano="2012">Março</span><span class="mes submit_consulta_edicao_data" data-mes="2" data-ano="2012">Fevereiro</span>
+                            </div>
+                        </div>
+                </div>
+                </div>
+            </div><div id="conteudo-area"></div>
+                    </div>
+                </div>
+                <div id="border-azul-fn-bottom"></div><div class="wpo-lock">
+                        <div class="wpo-nova-janela"></div>
+                        <div class="wpo-aviso-janela"></div>
+                    </div>            <style>
+                .rodape-endereco .box-endereco .horario-funcionamento .hora{
+                    width: 100%;
+                    float: left;
+                    font-size: 1.2em;
+                }
+                .rodape-endereco .box-endereco .horario-funcionamento{
+                    width: 100%;
+                    float: left;
+                    margin-top: 7px;
+                }
+                .rodape-endereco .box-endereco .icone {
+                    float: left;
+                    font-size: 4.3em;
+                    position: absolute;
+                    left: 10%;
+                    top: 13px;
+                    opacity: 0.2;
+                }
+                .rodape-endereco .box-endereco .horario-funcionamento-box span{
+                    float:left;
+                    width: 100%;
+                    margin-bottom: 8px;
+                }
+                .rodape-endereco .box-endereco .horario-funcionamento-box{
+                    position: absolute;
+                    width: 100%;
+                    left: 0;
+                    height: 140px;
+                    border-radius: 2px;
+                    font-size: 1.2em;
+                    color: #FFF;
+                    text-align: center;
+                    padding: 10px 15px;
+                    top: -140px;
+                    -webkit-box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+                    -mpz-box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+                    box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+                    display: none;
+                }
+                .rodape-endereco .box-endereco .horario-funcionamento.multiplo .fa{
+                    cursor: pointer;
+                }
+                .rodape-endereco .box-endereco .horario-funcionamento.multiplo{
+                    padding-top: 19px;
+                }
+                .rodape-endereco .box-endereco{
+                    text-align: center;
+                    padding-right: 10px;
+                    padding-left: 10px;
+                    margin-top: 15px;
+                    margin-bottom: 15px;
+                    width: 100%;
+                    float: left;
+                    position: relative;
+                    min-height: 70px;
+                    overflow-wrap: break-word;
+                }
+                .rodape-endereco .box-multi-horario span{
+                    font-size: 1.2em;
+                    margin-bottom: 5px;
+                    width: 100%;
+                    float: left;
+                }
+                .rodape-endereco .box-multi-horario span:last-of-type{
+                    margin-bottom: 0;
+                }
+                .rodape-endereco .col-md-4{
+                    margin: 0;
+                }
+                .box-endereco .ban-ai{
+                    float:left;
+                    width: 126px;
+                    margin-top: 14px;
+                }
+                .wpo-mapa{
+                    background:#c8c9cc;
+                }
+                div.col-md-2 {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .ipm a.download-apple img, .ipm a.download-android img{
+                    width: 130px;
+                }
+                .ipm a.download-apple, .ipm a.download-android{
+                    float: right;
+                    margin-bottom: 10px;
+                    right: 24px;
+                }
+
+                .wpo-mapa .box-mapa-hover-fechar .mapa-texto .marcador{
+                    font-size: 5em;
+                    position: relative;
+                    top: 8px;
+                    left: -7px;
+                    margin-bottom: 20px;
+                    margin-top: 2px;
+                    -webkit-transition: all 0.3s ease;
+                    -moz-transition: all 0.3s ease;
+                    -ms-transition: all 0.3s ease;
+                    -o-transition: all 0.3s ease;
+                    transition: all 0.3s ease;
+                }
+                body.acessibilidade .wpo-mapa .box-mapa-hover{
+                    background: rgba(21,21,21,0.5) !important;
+                }
+                .mapa-texto .marcador{
+                    font-size: 7em;
+                    width: 100%;
+                    float: left;
+                    margin-top: 15px;
+                    margin-bottom: 15px;
+                    line-height: 0;
+                }
+
+                .aumentar_2 .mapa-texto .marcador,
+                .aumentar_1 .mapa-texto .marcador{
+                    font-size: 5rem;
+                }
+                .aumentar_3 .mapa-texto .marcador{
+                    font-size: 4.6rem;
+                    margin: 5px 0;
+                }
+
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.telefone{
+                    font-size: 1.8em;
+                    margin-top:20px;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais{
+                    font-size: 1.6em;
+                    margin-top: 10px;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .fa{
+                    color: #FFF;
+                    background-color: #AAA;
+                    padding-left: 0;
+                    padding-right: 0;
+                    border-radius: 2px;
+                    padding-top: 3px;
+                    padding-bottom: 3px;
+                    width: 50px;
+                    -webkit-transition: all 0.3s ease;
+                    -moz-transition: all 0.3s ease;
+                    -ms-transition: all 0.3s ease;
+                    -o-transition: all 0.3s ease;
+                    transition: all 0.3s ease;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-facebook:hover{
+                    background-color: #3b5998;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-twitter:hover{
+                    background-color: #65BcFe;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-google-plus:hover{
+                    background-color: #Ed5b49;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-youtube:hover{
+                    background-color: #Cb1010;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-instagram:hover{
+                    background-color: #e1306c;
+                }
+                .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .icon-rss:hover{
+                    background-color: #F26522;
+                }
+
+                .rodape-endereco{
+                    float:left;
+                    width:100%;
+                    background:#babcbd;
+                    position:relative;
+                    min-height: 174px;
+                }
+                .rodape-final{
+                    float:left;
+                    width:100%;
+                    background:#a5a9ab;
+                    padding-top: 7px;
+                    padding-bottom: 7px;
+                }
+                .rodape-endereco .rodape-lista-opcoes .cabecalho{
+                    font-size: 1.2em;
+                    text-transform: uppercase;
+                    letter-spacing: 2px;
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    font-family: var(--fonte-padrao-registros);
+                    padding-top: 20px;
+                }
+                .rodape-endereco .rodape-lista-opcoes ul{
+                    padding-left:0
+                }
+                .rodape-endereco .rodape-lista-opcoes ul li a{
+                    color:#515151;
+                }
+                .rodape-endereco .rodape-lista-opcoes ul li a:hover{
+                    color:#212121;
+                    padding-left: 10px;
+                }
+                .rodape-endereco .rodape-lista-opcoes ul li{
+                    list-style: square;
+                    list-style-position: inside;
+                    margin-left: 3px;
+                    padding-bottom: 4px;
+                    padding-top: 4px;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    font-size: 1.1em;
+                    -webkit-transition: all 0.3s ease;
+                    -moz-transition: all 0.3s ease;
+                    -ms-transition: all 0.3s ease;
+                    -o-transition: all 0.3s ease;
+                    transition: all 0.3s ease;
+                }
+                .rodape-endereco .rodape-lista-opcoes.horarioAtendimentoUnico{
+                    text-transform: uppercase;
+                }
+                .rodape-endereco .ipm{
+                    position: absolute;
+                    right: 0;
+                    top:20px
+                }
+                .rodape-endereco .col-md-2{
+                    width: 20%;
+                }
+                .rodape-endereco .selos{
+                    top:9px;
+                    padding-left : 48px;
+                }
+                .horario-funcionamento .hora, .horario-funcionamento-sequencial .hora{
+                    float:left;
+                    width: 100%;
+                }
+                .horario-funcionamento-sequencial{
+                    width: 100%;
+                    float:left;
+                    margin-top: 6px;
+                    letter-spacing: 1px;
+                }
+                .horario-funcionamento-sequencial, .horario-funcionamento{
+                    letter-spacing: 1px;
+                }
+                .horario-funcionamento-sequencial .hora{
+                    margin-bottom:9px;
+                    letter-spacing: 1px;
+                }
+
+                .horario-funcionamento .hora:nth-child(1), .horario-funcionamento .hora:nth-child(3), .horario-funcionamento .hora:nth-child(5), .horario-funcionamento .hora:nth-child(7), .horario-funcionamento .hora:nth-child(9), .horario-funcionamento .hora:nth-child(11){
+                    font-family: var(--fonte-padrao-registros);
+                }
+                .horario-funcionamento .hora:nth-child(2), .horario-funcionamento .hora:nth-child(4), .horario-funcionamento .hora:nth-child(6), .horario-funcionamento .hora:nth-child(8), .horario-funcionamento .hora:nth-child(10), .horario-funcionamento .hora:nth-child(12){
+                    margin-bottom: 10px;
+                }
+                body.acessibilidade div.area_notificacoes, div.area_logo_ipm_portal {
+                    /*background-color: transparent;*/
+                    filter: brightness(0.7);
+                }
+                body.acessibilidade .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais .fa{
+                    color:#000;
+                    background:#FFF;
+                }
+                body.acessibilidade .rodape-endereco{
+                    background:#000
+                }
+                body.acessibilidade .rodape-final{
+                    background:#151515
+                }
+                body.acessibilidade .rodape-endereco .rodape-lista-opcoes ul li a{
+                    color:#FFF;
+                }
+                div.area_logo_ipm_portal {
+                    width: 125px;
+                    height: 54px;
+                    float: right;
+                    margin-top: 16px;
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-size: initial;
+                }
+
+                div.area_logo_ipm_portal a {
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                }
+                body.acessibilidade div.area_logo_ipm_portal{
+                    -webkit-filter: grayscale(100%) brightness(2);
+                    filter: grayscale(100%) brightness(2);
+                }
+                .rodape-endereco .ipm .linha{
+                    float:right;
+                    text-align:center;
+                }
+                div .selo-logo-ipm{
+                    right: 15px;
+                    position: relative;
+
+                }
+                div.area_logo_ipm_portal{
+                    margin-top:6px;
+                }
+                .wpo_plugin_rodape .container-selos{
+                    display : flex;
+                    flex-wrap: wrap;
+                    width: 125px;
+                    justify-content: center;
+                }
+                .wpo_plugin_rodape .div_selo{
+                    margin-bottom: 9px;
+                }
+                @media only screen and (max-width : 1200px) {
+                }
+
+                /* Dispositivos Médios, Desktops */
+                @media only screen and (max-width : 992px) {
+                    .rodape-endereco .col-md-2 .rodape-lista-opcoes{
+                        border-bottom: 1px dashed #a5a9ab;
+                        float: left;
+                        width: 100%;
+                    }
+                    .rodape-endereco .col-md-2:last-of-type .rodape-lista-opcoes{
+                        border-bottom: 0px dashed #a5a9ab;
+                    }
+                    .rodape-endereco .col-md-2:nth-child(1){
+                        position: initial;
+                        width: 100%;
+                        left: 0;
+                        bottom: initial;
+                        top: initial;
+                        margin-top: 15px;
+                        border-bottom: 1px solid #c8c9cc;
+                        padding-bottom: 15px;
+                    }
+
+                    .rodape-endereco .col-md-2:nth-child(4) .rodape-lista-opcoes{
+                        margin-bottom: 20px;
+                    }
+                    .rodape-endereco .col-md-2{
+                        width: 100%;
+                        float: left;
+                    }
+                    .rodape-endereco .ipm {
+                        position: initial;
+                        right: 0;
+                        bottom: 16px;
+                        top: initial;
+                    }
+                    .ipm a.download-apple, .ipm a.download-android{
+                        float:none;
+                        position:initial;
+                        margin-right: 5px;
+                        display: inline-block;
+                        margin-bottom:5px;
+                    }
+                    div a.selo-logo-ipm{
+                        display: flex;
+                        justify-content: center;
+                        right: 0;
+                    }
+                    div.area_logo_ipm_portal{
+                        margin-top: -6px !important;
+                        display: inline-block;
+                        position:initial;
+                        float: initial;
+                    }
+                    img#img-selo-norton-secured{
+                        position: relative;
+                        bottom: 10px;
+                    }
+                    .rodape-endereco .ipm .linha{
+                        float:none;
+                        width: 100%;
+                        display: inline-block;
+                    }
+
+                    .wpo_plugin_rodape .container-selos{
+                        width: 380px;
+                        height: 60px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        margin-bottom: 8px;
+                        justify-content: space-around;
+                    }
+                    .rodape-endereco .selos{
+                        padding-left: 15px;
+                        padding-bottom: 0px !important;
+                    }
+
+                }
+
+                /* Dispositivos Pequenos, Tablets, Celulares */
+                @media only screen and (max-width : 768px) {
+                    .wpo-mapa .box-mapa-hover .mapa-texto .linha.midiassociais{
+                        display:none;
+                    }
+                }
+
+                /* Dispositivos Muito Pequeno, Celulares */
+                @media only screen and (max-width : 680px) {
+
+                }
+
+                /* CONFIGURAÇÃO: ESPECÍFICA */
+                @media only screen and (max-width : 480px) {
+                    .wpo-mapa .box-mapa-hover .mapa-texto .linha.telefone{
+                        font-size: 1.2em;
+                    }
+                }
+
+                /* CONFIGURAÇÃO: ESPECÍFICA */
+                @media only screen and (max-width : 410px) {
+                    .wpo_plugin_rodape .container-selos{
+                        width: 125px;
+                        margin-bottom: 8px;
+                        height: 155px;
+                    }
+                    .rodape-endereco .selos{
+                        padding-bottom: 8px !important;
+                    }
+                }
+
+
+                /* Custom, iPhone Retina */
+                @media only screen and (max-width : 320px) {
+                    .rodape-endereco .col-md-2:nth-child(1), .rodape-endereco .ipm{
+                        transform: scale(0.7);
+                    }
+                    .rodape-endereco .selos{
+                        transform: none !important;
+                    }
+                }
+            </style>
+            <script>
+                $(function(){
+                    $('.box-endereco-horario-multiplos').on("click", function(){
+                        if($('.horario-funcionamento-box').hasClass('horario-mostrar')){
+                            $('.horario-funcionamento-box').removeClass('horario-mostrar');
+                            $('.horario-funcionamento-box').fadeOut();
+                        }else{
+                            $('.horario-funcionamento-box').addClass('horario-mostrar');
+                            $('.horario-funcionamento-box').fadeIn();
+                        }
+                    });
+                    $('.box-endereco-horario-multiplos').on('mouseleave', function(){
+                        $('.horario-funcionamento-box').removeClass('horario-mostrar');
+                        $('.horario-funcionamento-box').fadeOut();
+                    });
+                    $('.box-endereco-horario-multiplos').on('mouseenter', function(){
+                        $('.horario-funcionamento-box').addClass('horario-mostrar');
+                        $('.horario-funcionamento-box').fadeIn();
+                    });
+
+                    $('.wpo-mapa .box-mapa .box-mapa-hover').on("click", function(){
+                        if($(this).hasClass('box-mapa-hover-fechar')){
+                            $(this).removeClass('box-mapa-hover-fechar');
+                        }
+                    });
+                    $('.wpo-mapa .box-mapa .box-mapa-hover .vnm').on("click", function(e){
+                        e.stopPropagation();
+                        $('.wpo-mapa .box-mapa .box-mapa-hover').addClass('box-mapa-hover-fechar');
+                    });
+                    $('#rodape-logos .box-endereco').height(parseInt($('#rodape-horario-sequencial').height() - 15));
+                });
+            </script>
+            <footer class="container-fluid full wpo-mapa" role="contentinfo">
+                <div class="box-mapa">
+                        <script type="text/javascript">
+                            var verificaSolicitaMapaPortal = 0;
+                            function abreMapaPortal() {
+                                let bMapaGoogle = true;
+                                if(window.verificaSolicitaMapaPortal == 0){
+                                    var oEnderecoPrefeitura = {"latitude":null,"longitude":null};
+                                    let oCoordenada = {'lat': oEnderecoPrefeitura.latitude, 'lng': oEnderecoPrefeitura.longitude};
+                                    var oMapaServico = Mapa.criaApiMapa('wpo_mapa_cliente', oCoordenada);
+                                    if(oEnderecoPrefeitura.latitude != null){
+                                        if(oMapaServico instanceof Promise){
+                                            oMapaServico.then((oMapa) => {
+                                                if(bMapaGoogle){
+                                                    oMapa.onIniciaMapa(() => {
+                                                        instanciaMapaRodape(oMapa);
+                                                    });
+                                                }else{
+                                                    instanciaMapaRodape(oMapa);
+                                                }
+                                            });
+                                        }else{
+                                            if(bMapaGoogle){
+                                                oMapaServico.onIniciaMapa(() => {
+                                                    instanciaMapaRodape(oMapaServico);
+                                                });
+                                            }else{
+                                                instanciaMapaRodape(oMapaServico);
+                                            }
+                                        }
+                                    }
+                                    window.verificaSolicitaMapaPortal = 1;
+                                }
+                            }
+                            
+                            function instanciaMapaRodape(oMapa){
+                                oMapa.appendTo($('.box-mapa'));
+                                oMapa.setVisualizacao(true);
+                                oMapa.setMouseScroll(false);
+                            }
+                        </script>
+                    <div class="box-mapa-hover">
+                        <div class="mapa-texto">
+                            <span class="marcador"><span class="fa fas fa-map-marker-alt"></span></span>
+                            <span class="entidade">MUNICIPIO DE CAMPO MOURAO </span>
+                            <span class="linha">RUA BRASIL, Nº 1487, CENTRO - Campo Mour&atilde;o/PR</span>
+                            <span class="linha">CEP: 87.302-230</span>
+                            <span class="linha vernomapa"><span class="vnm" onclick="abreMapaPortal()">Visualizar Endereço no Mapa</span></span>
+                            <span class="linha telefone">Email: <a  href="mailto:prefeitura@campomourao.pr.gov.br">prefeitura@campomourao.pr.gov.br</a> <br /> Tel/Fax: <a  href="tel:+554435181144">(44) 3518-1144</a></span>
+                                                           <span class="linha midiassociais">
+                                                                            <a href="http://www.facebook.com/prefeituracampomourao" target="_blank"><span class="fa icon-facebook fab fa-facebook"></span></a>
+                                                                            <a href="http://www.instagram.com/prefeituracampomourao" target="_blank"><span class="fa icon-instagram fab fa-instagram"></span></a>
+                                                                            <a href="/cidadao/rss/noticias" target="_blank"><span class="fa icon-rss fas fa-rss"></span></a>
+                                                                    </span>
+                                                    </div>
+                    </div>
+                </div>
+            </footer>
+            <footer class="container-fluid rodape-endereco" role="contentinfo">
+                <div class="row" style="margin-bottom: 10px;">
+                    <div class="col-md-2 selos">
+                        <div class="wpo_plugin_rodape_desativo base">
+                            <div class="wpo_plugin_rodape_desativo centro">
+                                <div class="wpo_plugin_rodape blindado">
+                                                <div class="container-selos">
+                <div class="div_selo linha">
+                    <a href='https://seal.digicert.com/seals/popup/?tag=cM50dngc&url=atende.net&lang=pt' target='_blank'>
+                    <img alt='Selo Norton Secured' src='imagem/sistema/wpo/imagem_wpo_selo_norton_secured.png' class='img-selo-portal ban-ai' id='img-selo-norton-secured'/>
+                </a>                </div>
+                <div class="div_selo linha">
+                    <a href='https://seal.digicert.com/seals/popup/?tag=cM50dngc&url=atende.net&lang=pt' target='_blank'>
+                        <img alt='Selo DigiCert Secured' src='imagem/sistema/wpo/imagem_wpo_selo_digicert_secured.png' class='img-selo-portal ban-ai' id='img-selo-digicert-secured'/>
+                    </a>                </div>
+            </div>
+            <script>
+                (function () {
+                    var bHandling = false;
+
+                    function __is_element_on_screen(oElement) {
+                        if (!oElement.getBoundingClientRect) {
+                            return true;
+                        }
+                        var boundings = oElement.getBoundingClientRect();
+                        return (boundings.top >= 0 && boundings.left >= 0 && boundings.bottom <= (window.innerHeight || document.documentElement.clientHeight) && boundings.right <= (window.innerWidth || document.documentElement.clientWidth));
+                    }
+
+                    $('#DigiCertClickID_cM50dngc').on('DOMSubtreeModified', () => {
+                        if ($('#DigiCertClickID_cM50dngc_object').length > 0 && !bHandling) {
+                            bHandling = true;
+                            var fnHandler = function () {
+                                if (__is_element_on_screen($('#DigiCertClickID_cM50dngc')[0])) {
+                                    $('#DigiCertClickID_cM50dngc_object').css('display', 'block');
+                                    $('.corpo_site, .portal_transparencia, body').off('scroll', fnHandler);
+                                }
+                            };
+                            $('.corpo_site, .portal_transparencia, body').on('scroll', fnHandler);
+                        }
+                    });
+
+                })();
+            </script>
+                                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2" id="rodape-links-lista">
+                        <div class="rodape-lista-opcoes">
+                            <div class="cabecalho">Links Importantes</div>
+                            <ul>
+                                                                <li><a href="/cidadao/" target="_blank">Portal do Cidadão </a></li>
+                                                                            <li><a href="https://campomourao.atende.net/autoatendimento/" target="_blank">Autoatendimento</a></li>
+                                                                        <li><a href="/transparencia/" target="_blank">Portal da Transparência</a></li>
+                                                                    <li><a href="/autoatendimento/servicos/acesso-ao-sistema-de-escrita-fiscal/detalhar/1" title="Escrita Fiscal" target="_blank">Escrita Fiscal</a></li>
+                                                                    <li><a href="/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica/detalhar/1" title="Nota Fiscal Eletrônica" target="_blank">Nota Fiscal Eletrônica</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="rodape-lista-opcoes horarioAtendimentoUnico">
+                            <div class="cabecalho">Horário de Atendimento</div>
+                                                                <div class="horarioAtendimentoUnico">
+                                                                                                                                    <span class="horario-funcionamento">
+                                                    <span class="hora">Segunda-feira a Sexta-feira</span><span class="hora">  08:00 às 11:30 - 13:30 às 17:00</span>                                                </span>
+                                                                                                                        </div>
+                                                      </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="rodape-lista-opcoes">
+                            <div class="cabecalho">ACESSO À INFORMAÇÃO</div>
+                            <ul>
+                                <li><a href="http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm" target="_blank">Conheça a Lei</a></li>
+                                                                    <li><a href="/cidadao/acesso-informacao" target="_blank">Solicitações</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2 ipm">
+                                                    <div class="linha">
+                                <a class='download-android' href='https://play.google.com/store/apps/details?id=br.com.ipm.mobile.Atende.Net&hl=pt_BR' title='Download para Android' rel='noopener' target='_blank'>
+                    <img src='imagem/sistema/wpo/imagem_wpo_portal_android.png' alt='Download para Android'>
+                </a>                            </div>
+                            <div class="linha">
+                                <a class='download-apple' href='https://itunes.apple.com/ca/app/atende-net/id1330201742?mt=8' title='Download para IOS' rel='noopener' target='_blank'>
+                    <img src='imagem/sistema/wpo/imagem_wpo_portal_apple.png' alt='Download para IOS'>
+                </a>                            </div>
+                                                <div class="linha">
+                            <a href='http://www.ipm.com.br' class='anc_selo_tec_ipm' target='_blank'>
+                    <img alt='Selo Tecnologia IPM' src='imagem/sistema/wpo/wpo_logo_tec_ipm.svg' class='img-selo-portal' id='img-selo-tecnologia-ipm' style='filter: invert(65%)'/>
+                </a>                        </div>
+                    </div>
+                </div>
+            </footer>
+            <footer class="container-fluid rodape-final" role="contentinfo">
+                2023 - IPM Sistemas Ltda. Todos os Direitos Reservados.<p class="wpo_link_termos_privacidade"><a href="https://news.atende.net/docs/nws_termos_de_uso_atende.html" target="_blank">Termos de Uso</a></p>
+                <p class="wpo_link_termos_privacidade"><a href="https://news.atende.net/docs/nws_politica_privacidade_atende.html" target="_blank">Política de Privacidade</a></p>            </footer>
+        
+        <style>
+            .termos_cookie_privacidade .aceitar_termos_cookie_privacidade{
+                width: 15em;
+            }
+            #btn-open-preferencia-cookies{
+                position: fixed;
+                left: 2rem;
+                bottom: 1.5rem;
+                font-size: 4rem;
+            }
+            #btn-open-preferencia-cookies i {
+                cursor: pointer;
+                opacity: .4;
+            }
+            #btn-open-preferencia-cookies i:hover {
+                opacity: 1;
+            }
+            .title_politica_cookies{
+                font-size: 1.7em;
+                font-family: var(--fonte-padrao-registros);
+            }
+            .termos_cookie_privacidade, .termos_cookie_privacidade p{
+                font-family: var(--fonte-padrao-registros);
+            }
+        </style>
+
+        <span title="Abrir preferência de Cookies" id="btn-open-preferencia-cookies">
+            <i class="fas fa-cookie-bite" onclick="abreOpcoesCookies()"></i>
+        </span>
+
+        <section class="termos_cookie_privacidade termos_cookie_privacidade_ativados">
+            <div>
+                <h5 class="title_politica_cookies">Política de Cookies</h5>
+                <p>
+                    Utilizamos cookies e tecnologias semelhantes para fornecer-lhe uma melhor experiência de navegação,
+                    assim como providenciar alguns recursos essenciais.<br/>
+                    Ao continuar navegando nesta página você concorda com nossas
+                    <a href="https://news.atende.net/docs/nws_politica_de_uso_de_cookie.html" target="_blank">Políticas de uso de cookies</a>,
+                    <a href="https://news.atende.net/docs/nws_politica_privacidade_atende.html" target="_blank">Políticas de privacidade</a> e
+                    <a href="https://news.atende.net/docs/nws_termos_de_uso_atende.html" target="_blank">Termos de Uso</a>.
+                </p>
+            </div>
+            <div class="btn-aceitar_termos_cookie_privacidade">
+                <button class="aceitar_termos_cookie_privacidade" onclick='aceitaPoliticaCookies({"5":"WPO_USER","7":"_utm*","1":"PHPSESSID","2":"cidade","4":"AssinaturaDigitalCerts","3":"aceitouCookies","6":"_grecaptcha","10":"avisosPortal","11":"avisoBloqueadorWpo","12":"votoEnquete","13":"registroNewsletter","17":"CookiePreferencia","14":"acessibilidadePortal"})'>Aceitar Todos</button>
+                <button class="aceitar_termos_cookie_privacidade" onclick='rejeitaPoliticaCookies()'>Rejeitar não necessários</button>
+                <button class="aceitar_termos_cookie_privacidade" onclick="abreOpcoesCookies()">Outras Opções</button>
+            </div>
+
+        </section>
+        <section class="termos_cookie_privacidade termos_cookie_privacidade_desativados">
+            <div>
+                <h5>Ativação de Cookies</h5>
+                <p>
+                    Utilizamos cookies e tecnologias semelhantes para providenciar alguns recursos essenciais.
+                    Porém percebemos que você os possui desativados neste navegador.<br/>
+                    <b>Isto significa que diversos recursos providenciados poderão não estar disponíveis.</b>
+                </p>
+            </div>
+            <div class="btn-aceitar_termos_cookie_privacidade">
+                <button class="aceitar_termos_cookie_privacidade" onclick="fechaPoliticaCookies()">OK</button>
+            </div>
+        </section>
+        </div></html>
